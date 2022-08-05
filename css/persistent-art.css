@@ -15,6 +15,7 @@
   height: 1328px;
   left: 0px;
   mix-blend-mode: normal;
+  object-fit: cover;
   position: absolute;
   top: 0px;
   width: 1920px;
@@ -33,19 +34,6 @@
   width: 1214px;
 }
 
-.persistent-art .infinite-animation-i-ElHrxq {
-  background-color: transparent;
-  height: auto;
-  left: 393px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 688px;
-  width: 1181px;
-}
-
 .persistent-art .infinite-animation-artwork-n9JY6v {
   background-color: transparent;
   height: auto;
@@ -59,7 +47,7 @@
   width: auto;
 }
 
-.persistent-art .infinite-animation-i-3T8UxK {
+.persistent-art .infinite-animation-i-ElHrxq {
   background-color: transparent;
   height: auto;
   left: 360px;
@@ -633,28 +621,63 @@
   text-align: center;
 }
 
-.persistent-art .x1-n9JY6v {
+.persistent-art .group-19-n9JY6v {
+  background-color: transparent;
+  height: 237px;
+  left: 360px;
+  position: absolute;
+  top: 689px;
+  width: 1234px;
+}
+
+.persistent-art .infinite-animation-i-OQu0Uy {
   background-color: transparent;
   height: auto;
-  left: 360px;
+  left: 33px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 688px;
+  top: 0px;
+  width: 1181px;
+}
+
+.persistent-art .x1-OQu0Uy {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
   width: auto;
 }
 
-.persistent-art .x2-n9JY6v {
+.persistent-art .x2-OQu0Uy {
   background-color: transparent;
   height: auto;
-  left: 360px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 848px;
+  top: 160px;
   width: auto;
+}
+
+.persistent-art .infinite-animation-i-BoXjLx {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 1195px;
 }

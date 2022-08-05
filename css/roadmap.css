@@ -15,9 +15,20 @@
   height: 1500px;
   left: 0px;
   mix-blend-mode: normal;
+  object-fit: cover;
   position: absolute;
   top: 0px;
   width: 1920px;
+}
+
+.roadmap .img_20220726_123006-1-HbRUhy {
+  background-color: transparent;
+  height: 335px;
+  left: 1242px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 814px;
+  width: 565px;
 }
 
 .roadmap .road-map-HbRUhy {
