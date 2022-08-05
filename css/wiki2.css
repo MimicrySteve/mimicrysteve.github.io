@@ -1,8 +1,8 @@
-/* screen - blog-5-security */
+/* screen - wiki2 */
 
-.blog-5-security {
+.wiki2 {
   background-color: var(--black);
-  height: 2066px;
+  height: 1806px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -10,32 +10,41 @@
   width: 1920px;
 }
 
-.blog-5-security .blog-5-security-pvmtZU {
-  background: linear-gradient(180deg, rgb(33.63698065280914, 56.85809701681137, 139.18750405311584) 0%, rgba(0, 0, 0, 0) 62.5%);
+.wiki2 .background-CLVtXN {
   background-color: transparent;
-  height: 2066px;
-  left: -0px;
+  height: 1806px;
+  left: 0px;
   mix-blend-mode: normal;
-  overflow: hidden;
+  object-fit: cover;
   position: absolute;
   top: 0px;
   width: 1920px;
 }
 
-.blog-5-security .footerlinks-pvmtZU {
+.wiki2 .img_20220726_123006-1-CLVtXN {
   background-color: transparent;
-  height: 278px;
-  left: -1px;
+  height: 335px;
+  left: 35px;
+  mix-blend-mode: screen;
   position: absolute;
-  top: 1788px;
-  width: 1921px;
+  top: 283px;
+  width: 565px;
 }
 
-.blog-5-security .footer-qJGv2j {
+.wiki2 .footer-CLVtXN {
+  background-color: transparent;
+  height: 278px;
+  left: 0px;
+  position: absolute;
+  top: 1528px;
+  width: 1920px;
+}
+
+.wiki2 .footer-bLxUT0 {
   background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
   background-color: transparent;
   height: 184px;
-  left: 1px;
+  left: 0px;
   mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
@@ -43,7 +52,7 @@
   width: 1920px;
 }
 
-.blog-5-security .frame-1-sH0rFo {
+.wiki2 .frame-1-NXMxJK {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -56,7 +65,7 @@
   width: min-content;
 }
 
-.blog-5-security .art-hkfyLh {
+.wiki2 .art-kly18l {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -67,7 +76,7 @@
   width: min-content;
 }
 
-.blog-5-security .use-mimicry-Mhsg3M {
+.wiki2 .use-mimicry-MWb0wB {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -79,7 +88,7 @@
   text-decoration: underline;
 }
 
-.blog-5-security .featured-art-Mhsg3M {
+.wiki2 .featured-art-MWb0wB {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -90,7 +99,7 @@
   text-align: center;
 }
 
-.blog-5-security .artist-spotlight-Mhsg3M {
+.wiki2 .artist-spotlight-MWb0wB {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -100,7 +109,7 @@
   text-align: center;
 }
 
-.blog-5-security .external-connections-Mhsg3M {
+.wiki2 .external-connections-MWb0wB {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -110,7 +119,7 @@
   text-align: center;
 }
 
-.blog-5-security .art-in-the-news-Mhsg3M {
+.wiki2 .art-in-the-news-MWb0wB {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -120,7 +129,7 @@
   text-align: center;
 }
 
-.blog-5-security .use-mimicry-hkfyLh {
+.wiki2 .use-mimicry-kly18l {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -131,7 +140,7 @@
   width: min-content;
 }
 
-.blog-5-security .use-mimicry-DjblyN {
+.wiki2 .use-mimicry-9vhoqC {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -143,7 +152,7 @@
   text-decoration: underline;
 }
 
-.blog-5-security .draw-with-mimicry-DjblyN {
+.wiki2 .draw-with-mimicry-9vhoqC {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -153,7 +162,7 @@
   text-align: center;
 }
 
-.blog-5-security .importing-external-data-DjblyN {
+.wiki2 .importing-external-data-9vhoqC {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -164,7 +173,7 @@
   text-align: center;
 }
 
-.blog-5-security .mimicry-functions-DjblyN {
+.wiki2 .mimicry-functions-9vhoqC {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -174,7 +183,7 @@
   text-align: center;
 }
 
-.blog-5-security .generating-nf-ts-DjblyN {
+.wiki2 .generating-nf-ts-9vhoqC {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -184,7 +193,7 @@
   text-align: center;
 }
 
-.blog-5-security .use-mimicry-TND0gD {
+.wiki2 .use-mimicry-O7fkcw {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -195,7 +204,7 @@
   width: min-content;
 }
 
-.blog-5-security .use-mimicry-iOxoKu {
+.wiki2 .use-mimicry-tGh12h {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -207,7 +216,7 @@
   text-decoration: underline;
 }
 
-.blog-5-security .understanding-persistence-iOxoKu {
+.wiki2 .understanding-persistence-tGh12h {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -218,7 +227,7 @@
   text-align: center;
 }
 
-.blog-5-security .code-docs-iOxoKu {
+.wiki2 .code-docs-tGh12h {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -228,7 +237,7 @@
   text-align: center;
 }
 
-.blog-5-security .best-practices-iOxoKu {
+.wiki2 .best-practices-tGh12h {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -238,7 +247,7 @@
   text-align: center;
 }
 
-.blog-5-security .code-examples-iOxoKu {
+.wiki2 .code-examples-tGh12h {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -248,7 +257,7 @@
   text-align: center;
 }
 
-.blog-5-security .general-hkfyLh {
+.wiki2 .general-kly18l {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -259,7 +268,7 @@
   width: min-content;
 }
 
-.blog-5-security .general-Ot8wLx {
+.wiki2 .general-njlWeZ {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -271,7 +280,7 @@
   text-decoration: underline;
 }
 
-.blog-5-security .about-us-Ot8wLx {
+.wiki2 .about-us-njlWeZ {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -282,7 +291,7 @@
   text-align: center;
 }
 
-.blog-5-security .road-map-Ot8wLx {
+.wiki2 .road-map-njlWeZ {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -293,7 +302,7 @@
   text-align: center;
 }
 
-.blog-5-security .careers-Ot8wLx {
+.wiki2 .careers-njlWeZ {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -304,7 +313,7 @@
   text-align: center;
 }
 
-.blog-5-security .blog-Ot8wLx {
+.wiki2 .blog-njlWeZ {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -315,7 +324,7 @@
   text-align: center;
 }
 
-.blog-5-security .community_links-qJGv2j {
+.wiki2 .community_links-bLxUT0 {
   background-color: var(--gulf-blue);
   box-shadow: inset 0px 0px 4px 5px #ffffff99;
   height: 94px;
@@ -327,7 +336,7 @@
   width: 1920px;
 }
 
-.blog-5-security .frame-1-4RpRMz {
+.wiki2 .frame-1-qCJvmQ {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -340,14 +349,14 @@
   width: min-content;
 }
 
-.blog-5-security .twitter-ZNBnCt {
+.wiki2 .twitter-AzB5Tp {
   background-color: transparent;
   height: 41px;
   min-width: 147px;
   position: relative;
 }
 
-.blog-5-security .image-1-x7zPQ3 {
+.wiki2 .image-1-ukHLXu {
   background-color: transparent;
   height: 41px;
   left: 0px;
@@ -358,7 +367,7 @@
   width: 40px;
 }
 
-.blog-5-security .twitter-x7zPQ3 {
+.wiki2 .twitter-ukHLXu {
   background-color: transparent;
   height: 24px;
   left: 23px;
@@ -371,14 +380,14 @@
   width: 122px;
 }
 
-.blog-5-security .reddit-ZNBnCt {
+.wiki2 .reddit-AzB5Tp {
   background-color: transparent;
   height: 42px;
   min-width: 150px;
   position: relative;
 }
 
-.blog-5-security .reddit-mxpoWl {
+.wiki2 .reddit-3b8GXw {
   background-color: transparent;
   height: 24px;
   left: 26px;
@@ -391,7 +400,7 @@
   width: 122px;
 }
 
-.blog-5-security .image-2-mxpoWl {
+.wiki2 .image-2-3b8GXw {
   background-color: transparent;
   height: 42px;
   left: 0px;
@@ -402,14 +411,14 @@
   width: 41px;
 }
 
-.blog-5-security .github-ZNBnCt {
+.wiki2 .github-AzB5Tp {
   background-color: transparent;
   height: 46px;
   min-width: 157px;
   position: relative;
 }
 
-.blog-5-security .github-8oHrQd {
+.wiki2 .github-grIU5g {
   background-color: transparent;
   height: 24px;
   left: 33px;
@@ -422,7 +431,7 @@
   width: 122px;
 }
 
-.blog-5-security .image-3-8oHrQd {
+.wiki2 .image-3-grIU5g {
   background-color: transparent;
   height: 46px;
   left: 0px;
@@ -433,7 +442,7 @@
   width: 51px;
 }
 
-.blog-5-security .telegram-ZNBnCt {
+.wiki2 .telegram-AzB5Tp {
   background-color: transparent;
   height: 42px;
   margin-right: -2px;
@@ -441,7 +450,7 @@
   position: relative;
 }
 
-.blog-5-security .telegram-dJ4CtX {
+.wiki2 .telegram-wpxl5x {
   background-color: transparent;
   height: 24px;
   left: 44px;
@@ -454,7 +463,7 @@
   width: 122px;
 }
 
-.blog-5-security .image-4-dJ4CtX {
+.wiki2 .image-4-wpxl5x {
   background-color: transparent;
   height: 42px;
   left: 0px;
@@ -465,74 +474,388 @@
   width: 54px;
 }
 
-.blog-5-security .body-pvmtZU {
+.wiki2 .main-CLVtXN {
   background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
+  height: 1452px;
+  left: 413px;
+  overflow: hidden;
+  position: absolute;
+  top: 76px;
+  width: 1507px;
+}
+
+.wiki2 .external-data-IqPuJD {
+  background-color: transparent;
+  height: 498px;
+  left: 0px;
+  position: absolute;
+  top: 43px;
+  width: 1449px;
+}
+
+.wiki2 .while-not-required-t-4dJN8T {
+  background-color: transparent;
   height: auto;
-  left: 360px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 308px;
-  width: 1200px;
+  top: 56px;
+  width: 1445px;
 }
 
-.blog-5-security .blog-photo-pvmtZU {
+.wiki2 .importing-external-data-4dJN8T {
   background-color: transparent;
   height: auto;
-  left: 360px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 209px;
-  width: 1198px;
-}
-
-.blog-5-security .steven-parad-20220726-pvmtZU {
-  background-color: transparent;
-  height: auto;
-  left: 360px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 176px;
-  width: 331px;
-}
-
-.blog-5-security .maintaining-personal-pvmtZU {
-  background-color: transparent;
-  height: 53px;
-  left: 360px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 123px;
+  top: 0px;
   width: auto;
 }
 
-.blog-5-security .img_20220726_123006-1-pvmtZU {
+.wiki2 .rights-IqPuJD {
   background-color: transparent;
-  height: 335px;
+  height: 206px;
   left: 0px;
-  mix-blend-mode: screen;
-  position: fixed;
-  top: 5px;
-  width: 426px;
+  position: absolute;
+  top: 605px;
+  width: 1445px;
 }
 
-.blog-5-security .header-pvmtZU {
+.wiki2 .we-are-big-believers-9Ud3i2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: 1441px;
+}
+
+.wiki2 .rights-9Ud3i2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.wiki2 .open-source-IqPuJD {
+  background-color: transparent;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 866px;
+  width: 1428px;
+}
+
+.wiki2 .we-intend-to-open-so-JzWm2F {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: 1424px;
+}
+
+.wiki2 .open-source-JzWm2F {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.wiki2 .ensuring-scarcity-IqPuJD {
+  background-color: transparent;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  top: 1036px;
+  width: 1428px;
+}
+
+.wiki2 .our-product-protects-c2CzXE {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 1424px;
+}
+
+.wiki2 .ensuring-scarcity-c2CzXE {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.wiki2 .security-IqPuJD {
+  background-color: transparent;
+  height: 81px;
+  left: 0px;
+  position: absolute;
+  top: 1263px;
+  width: 1440px;
+}
+
+.wiki2 .individual-tokens-ar-NAjOZ3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  width: 1436px;
+}
+
+.wiki2 .security-NAjOZ3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.wiki2 .runner-CLVtXN {
+  background-color: transparent;
+  height: 1452px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 76px;
+  width: 413px;
+}
+
+.wiki2 .wiki-MBH9EG {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: auto;
+}
+
+.wiki2 .frame-3-MBH9EG {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  left: 50px;
+  position: absolute;
+  top: 138px;
+  width: 339px;
+}
+
+.wiki2 .how-to-use-external-data-hfvxAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .what-rights-are-guaranteed-by-ia-hfvxAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .mimicrys-commitment-to-open-source-hfvxAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .how-does-ia-ensure-scarcity-hfvxAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .what-security-does-ia-provide-hfvxAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .spacer-_-10-CLVtXN {
+  background-color: transparent;
+  height: 40px;
+  left: 431px;
+  overflow: hidden;
+  position: absolute;
+  top: 1253px;
+  width: 225px;
+}
+
+.wiki2 .line-19-SAAxhq {
+  background-color: transparent;
+  height: 1px;
+  left: -8412px;
+  position: absolute;
+  top: -8296px;
+  width: 617px;
+}
+
+.wiki2 .spacer-_-9-CLVtXN {
+  background-color: transparent;
+  height: 40px;
+  left: 440px;
+  overflow: hidden;
+  position: absolute;
+  top: 1046px;
+  width: 225px;
+}
+
+.wiki2 .line-19-c58r3r {
+  background-color: transparent;
+  height: 1px;
+  left: -8421px;
+  position: absolute;
+  top: -8089px;
+  width: 617px;
+}
+
+.wiki2 .spacer-_-8-CLVtXN {
+  background-color: transparent;
+  height: 40px;
+  left: 430px;
+  overflow: hidden;
+  position: absolute;
+  top: 856px;
+  width: 225px;
+}
+
+.wiki2 .line-19-NLgz5y {
+  background-color: transparent;
+  height: 1px;
+  left: -8411px;
+  position: absolute;
+  top: -7899px;
+  width: 617px;
+}
+
+.wiki2 .spacer-_-7-CLVtXN {
+  background-color: transparent;
+  height: 40px;
+  left: 420px;
+  overflow: hidden;
+  position: absolute;
+  top: 575px;
+  width: 225px;
+}
+
+.wiki2 .line-19-Ha6rD6 {
+  background-color: transparent;
+  height: 1px;
+  left: -8401px;
+  position: absolute;
+  top: -7618px;
+  width: 617px;
+}
+
+.wiki2 .spacer-_-6-CLVtXN {
+  background-color: transparent;
+  height: 40px;
+  left: 430px;
+  overflow: hidden;
+  position: absolute;
+  top: 33px;
+  width: 225px;
+}
+
+.wiki2 .line-19-hOoXYC {
+  background-color: transparent;
+  height: 1px;
+  left: -8411px;
+  position: absolute;
+  top: -7076px;
+  width: 617px;
+}
+
+.wiki2 .header-CLVtXN {
   align-items: flex-start;
   background-color: var(--white);
   box-shadow: 4px 6px 4px #0000004c;
@@ -542,12 +865,12 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 1920px;
 }
 
-.blog-5-security .header-links-L8uxay {
+.wiki2 .header-links-3G1i69 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -557,7 +880,7 @@
   width: 785px;
 }
 
-.blog-5-security .mimicry-yJ2NgM {
+.wiki2 .mimicry-X2tScx {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
@@ -569,7 +892,7 @@
   width: 144px;
 }
 
-.blog-5-security .infinite-animation-yJ2NgM {
+.wiki2 .infinite-animation-X2tScx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -580,7 +903,7 @@
   text-align: center;
 }
 
-.blog-5-security .nft-yJ2NgM {
+.wiki2 .nft-X2tScx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -591,7 +914,7 @@
   text-align: center;
 }
 
-.blog-5-security .featured-art-yJ2NgM {
+.wiki2 .featured-art-X2tScx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -602,7 +925,7 @@
   text-align: center;
 }
 
-.blog-5-security .blog-yJ2NgM {
+.wiki2 .blog-X2tScx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -613,7 +936,7 @@
   text-align: center;
 }
 
-.blog-5-security .wiki-yJ2NgM {
+.wiki2 .wiki-X2tScx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -624,7 +947,7 @@
   text-align: center;
 }
 
-.blog-5-security .text-L8uxay {
+.wiki2 .text-3G1i69 {
   background-color: transparent;
   flex: 1;
   height: 52px;
@@ -636,7 +959,7 @@
   text-align: center;
 }
 
-.blog-5-security .draw_button-L8uxay {
+.wiki2 .draw_button-3G1i69 {
   align-items: center;
   background-color: var(--moon-raker);
   box-shadow: 0px 4px 4px #00000040;
@@ -650,7 +973,7 @@
   width: 168px;
 }
 
-.blog-5-security .draw-f5OOaD {
+.wiki2 .draw-noR4zK {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;

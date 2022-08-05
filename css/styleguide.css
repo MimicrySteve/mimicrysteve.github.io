@@ -51,14 +51,6 @@
   font-weight: 400;
 }
 
-.jomolhari-normal-blue-20px {
-  color: var(--blue);
-  font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .jomolhari-normal-white-30px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
@@ -75,6 +67,22 @@
   font-weight: 400;
 }
 
+.jomolhari-normal-blue-20px {
+  color: var(--blue);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .jomolhari-normal-black-16px {
   color: var(--black);
   font-family: var(--font-family-jomolhari);
@@ -87,30 +95,6 @@
   color: var(--white);
   font-family: var(--font-family-jomolhari);
   font-size: 25px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.jomolhari-normal-black-24px {
-  color: var(--black);
-  font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.jomolhari-normal-black-48px {
-  color: var(--black);
-  font-family: var(--font-family-jomolhari);
-  font-size: 48px;
-  font-style: normal;
-  font-weight: 400;
-}
-
-.jomolhari-normal-white-33px {
-  color: var(--white);
-  font-family: var(--font-family-jomolhari);
-  font-size: 33px;
   font-style: normal;
   font-weight: 400;
 }
@@ -131,10 +115,34 @@
   font-weight: 400;
 }
 
+.jomolhari-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jomolhari-normal-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .jomolhari-normal-white-70px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
   font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jomolhari-normal-white-33px {
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: 33px;
   font-style: normal;
   font-weight: 400;
 }

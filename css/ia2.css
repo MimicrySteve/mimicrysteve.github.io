@@ -1,8 +1,8 @@
-/* screen - careers */
+/* screen - ia2 */
 
-.careers {
+.ia2 {
   background-color: var(--black);
-  height: 1080px;
+  height: 1434px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -10,193 +10,27 @@
   width: 1920px;
 }
 
-.careers .background-AiQzRH {
+.ia2 .background-RcVNxI {
   background-color: transparent;
-  height: 954px;
+  height: 1430px;
   left: 0px;
   mix-blend-mode: normal;
+  object-fit: cover;
   position: absolute;
   top: 0px;
   width: 1920px;
 }
 
-.careers .mimicry-will-be-hiri-AiQzRH {
+.ia2 .footer-RcVNxI {
   background-color: transparent;
-  height: auto;
-  left: 200px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 261px;
-  width: 1301px;
-}
-
-.careers .join-mimicry-AiQzRH {
-  background-color: transparent;
-  height: auto;
-  left: 153px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 152px;
-  width: auto;
-}
-
-.careers .community_links-AiQzRH {
-  background-color: var(--gulf-blue);
-  box-shadow: inset 0px 0px 4px 5px #ffffff99;
-  height: 94px;
+  height: 278px;
   left: 0px;
-  mix-blend-mode: normal;
-  overflow: hidden;
   position: absolute;
-  top: 802px;
+  top: 1156px;
   width: 1920px;
 }
 
-.careers .frame-1-qZeGdf {
-  align-items: center;
-  background-color: transparent;
-  display: flex;
-  gap: 120px;
-  height: min-content;
-  justify-content: center;
-  left: 473px;
-  position: relative;
-  top: 21px;
-  width: min-content;
-}
-
-.careers .twitter-g6cg8R {
-  background-color: transparent;
-  height: 41px;
-  min-width: 147px;
-  position: relative;
-}
-
-.careers .image-1-JBYSnP {
-  background-color: transparent;
-  height: 41px;
-  left: 0px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 40px;
-}
-
-.careers .twitter-JBYSnP {
-  background-color: transparent;
-  height: 24px;
-  left: 23px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 4px;
-  width: 122px;
-}
-
-.careers .reddit-g6cg8R {
-  background-color: transparent;
-  height: 42px;
-  min-width: 150px;
-  position: relative;
-}
-
-.careers .reddit-WYOsAx {
-  background-color: transparent;
-  height: 24px;
-  left: 26px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 9px;
-  width: 122px;
-}
-
-.careers .image-2-WYOsAx {
-  background-color: transparent;
-  height: 42px;
-  left: 0px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 41px;
-}
-
-.careers .github-g6cg8R {
-  background-color: transparent;
-  height: 46px;
-  min-width: 157px;
-  position: relative;
-}
-
-.careers .github-nW7Pr8 {
-  background-color: transparent;
-  height: 24px;
-  left: 33px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 9px;
-  width: 122px;
-}
-
-.careers .image-3-nW7Pr8 {
-  background-color: transparent;
-  height: 46px;
-  left: 0px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 51px;
-}
-
-.careers .telegram-g6cg8R {
-  background-color: transparent;
-  height: 42px;
-  margin-right: -2px;
-  min-width: 168px;
-  position: relative;
-}
-
-.careers .telegram-hx7URD {
-  background-color: transparent;
-  height: 24px;
-  left: 44px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 9px;
-  width: 122px;
-}
-
-.careers .image-4-hx7URD {
-  background-color: transparent;
-  height: 42px;
-  left: 0px;
-  mix-blend-mode: normal;
-  object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 54px;
-}
-
-.careers .footer-AiQzRH {
+.ia2 .footer-dxxAmW {
   background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
   background-color: transparent;
   height: 184px;
@@ -204,11 +38,11 @@
   mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
-  top: 896px;
+  top: 94px;
   width: 1920px;
 }
 
-.careers .frame-1-JRGUYX {
+.ia2 .frame-1-pnqyS8 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -221,7 +55,7 @@
   width: min-content;
 }
 
-.careers .art-ciKu0w {
+.ia2 .art-XZxGNy {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -232,7 +66,7 @@
   width: min-content;
 }
 
-.careers .use-mimicry-Q8f3II {
+.ia2 .use-mimicry-qYRYZU {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -244,7 +78,7 @@
   text-decoration: underline;
 }
 
-.careers .featured-art-Q8f3II {
+.ia2 .featured-art-qYRYZU {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -255,7 +89,7 @@
   text-align: center;
 }
 
-.careers .artist-spotlight-Q8f3II {
+.ia2 .artist-spotlight-qYRYZU {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -265,7 +99,7 @@
   text-align: center;
 }
 
-.careers .external-connections-Q8f3II {
+.ia2 .external-connections-qYRYZU {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -275,7 +109,7 @@
   text-align: center;
 }
 
-.careers .art-in-the-news-Q8f3II {
+.ia2 .art-in-the-news-qYRYZU {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -285,7 +119,7 @@
   text-align: center;
 }
 
-.careers .use-mimicry-ciKu0w {
+.ia2 .use-mimicry-XZxGNy {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -296,7 +130,7 @@
   width: min-content;
 }
 
-.careers .use-mimicry-KB9TmG {
+.ia2 .use-mimicry-grLfTM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -308,7 +142,7 @@
   text-decoration: underline;
 }
 
-.careers .draw-with-mimicry-KB9TmG {
+.ia2 .draw-with-mimicry-grLfTM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -318,7 +152,7 @@
   text-align: center;
 }
 
-.careers .importing-external-data-KB9TmG {
+.ia2 .importing-external-data-grLfTM {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -329,7 +163,7 @@
   text-align: center;
 }
 
-.careers .mimicry-functions-KB9TmG {
+.ia2 .mimicry-functions-grLfTM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -339,7 +173,7 @@
   text-align: center;
 }
 
-.careers .generating-nf-ts-KB9TmG {
+.ia2 .generating-nf-ts-grLfTM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -349,7 +183,7 @@
   text-align: center;
 }
 
-.careers .use-mimicry-LNxEii {
+.ia2 .use-mimicry-ZcCD7M {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -360,7 +194,7 @@
   width: min-content;
 }
 
-.careers .use-mimicry-iCIm0Q {
+.ia2 .use-mimicry-hb9vR7 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -372,7 +206,7 @@
   text-decoration: underline;
 }
 
-.careers .understanding-persistence-iCIm0Q {
+.ia2 .understanding-persistence-hb9vR7 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -383,7 +217,7 @@
   text-align: center;
 }
 
-.careers .code-docs-iCIm0Q {
+.ia2 .code-docs-hb9vR7 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -393,7 +227,7 @@
   text-align: center;
 }
 
-.careers .best-practices-iCIm0Q {
+.ia2 .best-practices-hb9vR7 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -403,7 +237,7 @@
   text-align: center;
 }
 
-.careers .code-examples-iCIm0Q {
+.ia2 .code-examples-hb9vR7 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -413,7 +247,7 @@
   text-align: center;
 }
 
-.careers .general-ciKu0w {
+.ia2 .general-XZxGNy {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -424,7 +258,7 @@
   width: min-content;
 }
 
-.careers .general-rCesVU {
+.ia2 .general-5v5P1y {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -436,7 +270,7 @@
   text-decoration: underline;
 }
 
-.careers .about-us-rCesVU {
+.ia2 .about-us-5v5P1y {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -447,7 +281,7 @@
   text-align: center;
 }
 
-.careers .road-map-rCesVU {
+.ia2 .road-map-5v5P1y {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -458,7 +292,7 @@
   text-align: center;
 }
 
-.careers .careers-rCesVU {
+.ia2 .careers-5v5P1y {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -469,7 +303,7 @@
   text-align: center;
 }
 
-.careers .blog-rCesVU {
+.ia2 .blog-5v5P1y {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -480,17 +314,167 @@
   text-align: center;
 }
 
-.careers .img_20220726_123006-1-AiQzRH {
+.ia2 .community_links-dxxAmW {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.ia2 .frame-1-rS0hE2 {
+  align-items: center;
   background-color: transparent;
-  height: 334px;
-  left: 432px;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.ia2 .twitter-wVT44N {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.ia2 .image-1-Sw7Atn {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.ia2 .twitter-Sw7Atn {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.ia2 .reddit-wVT44N {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.ia2 .reddit-0y54nu {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.ia2 .image-2-0y54nu {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.ia2 .github-wVT44N {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.ia2 .github-0DIt1n {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.ia2 .image-3-0DIt1n {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.ia2 .telegram-wVT44N {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.ia2 .telegram-s1p1W4 {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.ia2 .image-4-s1p1W4 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.ia2 .img_20220726_123006-1-RcVNxI {
+  background-color: transparent;
+  height: 335px;
+  left: 1308px;
   mix-blend-mode: screen;
-  position: fixed;
-  top: 351px;
+  position: absolute;
+  top: 229px;
   width: 565px;
 }
 
-.careers .header-AiQzRH {
+.ia2 .header-RcVNxI {
   align-items: flex-start;
   background-color: var(--white);
   box-shadow: 4px 6px 4px #0000004c;
@@ -500,12 +484,12 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 1920px;
 }
 
-.careers .header-links-ymA1Vd {
+.ia2 .header-links-r0wsk0 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -515,7 +499,7 @@
   width: 785px;
 }
 
-.careers .mimicry-NhhOSV {
+.ia2 .mimicry-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
@@ -527,7 +511,7 @@
   width: 144px;
 }
 
-.careers .infinite-animation-NhhOSV {
+.ia2 .infinite-animation-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -538,7 +522,7 @@
   text-align: center;
 }
 
-.careers .nft-NhhOSV {
+.ia2 .nft-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -549,7 +533,7 @@
   text-align: center;
 }
 
-.careers .featured-art-NhhOSV {
+.ia2 .featured-art-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -560,7 +544,7 @@
   text-align: center;
 }
 
-.careers .blog-NhhOSV {
+.ia2 .blog-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -571,7 +555,7 @@
   text-align: center;
 }
 
-.careers .wiki-NhhOSV {
+.ia2 .wiki-nGpmZK {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -582,7 +566,7 @@
   text-align: center;
 }
 
-.careers .text-ymA1Vd {
+.ia2 .text-r0wsk0 {
   background-color: transparent;
   flex: 1;
   height: 52px;
@@ -594,7 +578,7 @@
   text-align: center;
 }
 
-.careers .draw_button-ymA1Vd {
+.ia2 .draw_button-r0wsk0 {
   align-items: center;
   background-color: var(--moon-raker);
   box-shadow: 0px 4px 4px #00000040;
@@ -608,7 +592,7 @@
   width: 168px;
 }
 
-.careers .draw-xya0Qk {
+.ia2 .draw-eFL9v3 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -617,4 +601,91 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.ia2 .infinite-animation-i-RcVNxI {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 318px;
+  width: 1320px;
+}
+
+.ia2 .infinite-animation-artwork-RcVNxI {
+  background-color: transparent;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: auto;
+}
+
+.ia2 .group-19-RcVNxI {
+  background-color: transparent;
+  height: 237px;
+  left: 300px;
+  position: absolute;
+  top: 725px;
+  width: 1328px;
+}
+
+.ia2 .infinite-animation-i-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1272px;
+}
+
+.ia2 .x1-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 18px;
+}
+
+.ia2 .x2-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 18px;
+}
+
+.ia2 .infinite-animation-i-FhUdMg {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 1287px;
 }
