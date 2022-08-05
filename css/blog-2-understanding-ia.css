@@ -1,0 +1,645 @@
+/* screen - blog-2-understanding-ia */
+
+.blog-2-understanding-ia {
+  background-color: var(--black);
+  height: 2361px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.blog-2-understanding-ia .background-1Bo6o2 {
+  background: linear-gradient(180deg, rgb(33.63698065280914, 56.85809701681137, 139.18750405311584) 0%, rgba(0, 0, 0, 0) 62.5%);
+  background-color: transparent;
+  height: 2361px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.blog-2-understanding-ia .footerlinks-1Bo6o2 {
+  background-color: transparent;
+  height: 278px;
+  left: -1px;
+  position: absolute;
+  top: 2083px;
+  width: 1921px;
+}
+
+.blog-2-understanding-ia .footer-8zu6ty {
+  background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
+  background-color: transparent;
+  height: 184px;
+  left: 1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 94px;
+  width: 1920px;
+}
+
+.blog-2-understanding-ia .frame-1-jEvrbf {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 106px;
+  height: min-content;
+  justify-content: center;
+  left: 498px;
+  position: relative;
+  top: 10px;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .art-eKx5x8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .use-mimicry-B4dUHM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.blog-2-understanding-ia .featured-art-B4dUHM {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .artist-spotlight-B4dUHM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 111px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .external-connections-B4dUHM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 155px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .art-in-the-news-B4dUHM {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .use-mimicry-eKx5x8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .use-mimicry-QAmNjw {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.blog-2-understanding-ia .draw-with-mimicry-QAmNjw {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 162px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .importing-external-data-QAmNjw {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .mimicry-functions-QAmNjw {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 152px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .generating-nf-ts-QAmNjw {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .use-mimicry-yYJXtE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .use-mimicry-5DbMMC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 119px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.blog-2-understanding-ia .understanding-persistence-5DbMMC {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 191px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .code-docs-5DbMMC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 79px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .best-practices-5DbMMC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 101px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .code-examples-5DbMMC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 113px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .general-eKx5x8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .general-oiGcSL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.blog-2-understanding-ia .about-us-oiGcSL {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .road-map-oiGcSL {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .careers-oiGcSL {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .blog-oiGcSL {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .community_links-8zu6ty {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.blog-2-understanding-ia .frame-1-dx3x90 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.blog-2-understanding-ia .twitter-EaBROK {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.blog-2-understanding-ia .image-1-tSinYS {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.blog-2-understanding-ia .twitter-tSinYS {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.blog-2-understanding-ia .reddit-EaBROK {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.blog-2-understanding-ia .reddit-Xw2Rhg {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.blog-2-understanding-ia .image-2-Xw2Rhg {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.blog-2-understanding-ia .github-EaBROK {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.blog-2-understanding-ia .github-SgZFxL {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.blog-2-understanding-ia .image-3-SgZFxL {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.blog-2-understanding-ia .telegram-EaBROK {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.blog-2-understanding-ia .telegram-tAdfyi {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.blog-2-understanding-ia .image-4-tAdfyi {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.blog-2-understanding-ia .body-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 308px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .blog-photo-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 209px;
+  width: 1198px;
+}
+
+.blog-2-understanding-ia .steven-parad-20220707-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 176px;
+  width: 331px;
+}
+
+.blog-2-understanding-ia .understanding-infini-1Bo6o2 {
+  background-color: transparent;
+  height: 53px;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: auto;
+}
+
+.blog-2-understanding-ia .img_20220726_123006-2-1Bo6o2 {
+  background-color: transparent;
+  height: 254px;
+  left: 38px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 163px;
+  width: 583px;
+}
+
+.blog-2-understanding-ia .header-1Bo6o2 {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 4px 6px 4px #0000004c;
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding: 12px 27px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.blog-2-understanding-ia .header-links-StqNED {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 44px;
+  position: relative;
+  width: 785px;
+}
+
+.blog-2-understanding-ia .mimicry-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}
+
+.blog-2-understanding-ia .infinite-animation-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .nft-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .featured-art-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .blog-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .wiki-xMpxtH {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .draw_button-StqNED {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--moon-raker);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  mix-blend-mode: darken;
+  padding: 10px 50px;
+  position: relative;
+  width: 168px;
+}
+
+.blog-2-understanding-ia .draw-q6EbKv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 68px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}

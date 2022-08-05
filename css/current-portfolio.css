@@ -1,0 +1,975 @@
+/* screen - current-portfolio */
+
+.current-portfolio {
+  background-color: var(--black);
+  height: 2652px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.current-portfolio .background-89br09 {
+  background-color: transparent;
+  height: 2652px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.current-portfolio .rectangle-1-89br09 {
+  background-color: #d9d9d9;
+  height: 631px;
+  left: 285px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 377px;
+  width: 1400px;
+}
+
+.current-portfolio .rectangle-3-89br09 {
+  background-color: #d9d9d9;
+  height: 631px;
+  left: 285px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1657px;
+  width: 1400px;
+}
+
+.current-portfolio .rectangle-2-89br09 {
+  background-color: #f2f2f2;
+  height: 631px;
+  left: 285px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1017px;
+  width: 1400px;
+}
+
+.current-portfolio .mimicry-is-a-truly-e-89br09 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 217px;
+  width: 1200px;
+}
+
+.current-portfolio .title-89br09 {
+  background-color: transparent;
+  height: 103px;
+  left: 285px;
+  position: absolute;
+  top: 104px;
+  width: 1402px;
+}
+
+.current-portfolio .featured-art-0pXTT7 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 551px;
+}
+
+.current-portfolio .line-1-0pXTT7 {
+  background-color: transparent;
+  height: 11px;
+  left: -4px;
+  position: absolute;
+  top: 48px;
+  width: 383px;
+}
+
+.current-portfolio .line-2-0pXTT7 {
+  background-color: transparent;
+  height: 11px;
+  left: 1021px;
+  position: absolute;
+  top: 48px;
+  width: 383px;
+}
+
+.current-portfolio .variable_-names-89br09 {
+  background-color: transparent;
+  height: 116px;
+  left: 1216px;
+  position: absolute;
+  top: 1121px;
+  width: 165px;
+}
+
+.current-portfolio .artist-RUSLwW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 122px;
+}
+
+.current-portfolio .description-RUSLwW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  width: 159px;
+}
+
+.current-portfolio .type-RUSLwW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: auto;
+}
+
+.current-portfolio .the-wolf-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 363px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 5px 5px 10px #000000cc;
+  top: 392px;
+  width: 322px;
+}
+
+.current-portfolio .pfp-madness-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 363px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 5px 5px 10px #000000cc;
+  top: 1039px;
+  width: 451px;
+}
+
+.current-portfolio .nature-alive-89br09 {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: auto;
+  left: 362px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 5px 5px 10px #000000cc;
+  top: 1678px;
+  width: 477px;
+}
+
+.current-portfolio .pilot_202204231556-1-89br09 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 453px;
+  left: 363px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 795px;
+}
+
+.current-portfolio .pfpmadness_202206301420-1-89br09 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 466px;
+  left: 363px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1121px;
+  width: 795px;
+}
+
+.current-portfolio .a-betting-game-on-pr-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 1214px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1237px;
+  width: 344px;
+}
+
+.current-portfolio .the-wolf-is-a-storyl-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 1214px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 603px;
+  width: 344px;
+}
+
+.current-portfolio .variable_-names-YBAGaj {
+  background-color: transparent;
+  height: 116px;
+  left: 1216px;
+  position: absolute;
+  top: 476px;
+  width: 165px;
+}
+
+.current-portfolio .artist-gdeais {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 122px;
+}
+
+.current-portfolio .description-gdeais {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  width: 159px;
+}
+
+.current-portfolio .type-gdeais {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: auto;
+}
+
+.current-portfolio .never-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 1304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 484px;
+  width: auto;
+}
+
+.current-portfolio .storyline-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 1304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 521px;
+  width: auto;
+}
+
+.current-portfolio .never-YBAGaj {
+  background-color: transparent;
+  height: auto;
+  left: 1304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1129px;
+  width: auto;
+}
+
+.current-portfolio .event-based-89br09 {
+  background-color: transparent;
+  height: auto;
+  left: 1304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1166px;
+  width: auto;
+}
+
+.current-portfolio .full_des_button-89br09 {
+  background-color: transparent;
+  box-shadow: 5px 5px 10px #000000cc;
+  cursor: pointer;
+  height: 62px;
+  left: 1208px;
+  position: absolute;
+  top: 759px;
+  width: 352px;
+}
+
+.current-portfolio .rectangle-4-zO7fux {
+  background-color: #c6c6c6;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.current-portfolio .click-for-full-description-zO7fux {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 350px;
+}
+
+.current-portfolio .full_des_button-YBAGaj {
+  background-color: transparent;
+  box-shadow: 5px 5px 10px #000000cc;
+  cursor: pointer;
+  height: 62px;
+  left: 1208px;
+  position: absolute;
+  top: 1379px;
+  width: 352px;
+}
+
+.current-portfolio .rectangle-4-S0oI2B {
+  background-color: #c6c6c6;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 62px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.current-portfolio .click-for-full-description-S0oI2B {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 350px;
+}
+
+.current-portfolio .community_links-89br09 {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2366px;
+  width: 1920px;
+}
+
+.current-portfolio .frame-1-h99K1y {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.current-portfolio .twitter-OVFbcZ {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.current-portfolio .image-1-SZZua6 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.current-portfolio .twitter-SZZua6 {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.current-portfolio .reddit-OVFbcZ {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.current-portfolio .reddit-HqquaN {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.current-portfolio .image-2-HqquaN {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.current-portfolio .github-OVFbcZ {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.current-portfolio .github-xmKuLD {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.current-portfolio .image-3-xmKuLD {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.current-portfolio .telegram-OVFbcZ {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.current-portfolio .telegram-Nv2Wnf {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.current-portfolio .image-4-Nv2Wnf {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.current-portfolio .footer-89br09 {
+  background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2468px;
+  width: 1920px;
+}
+
+.current-portfolio .frame-1-m2vQF5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 106px;
+  height: min-content;
+  justify-content: center;
+  left: 498px;
+  position: relative;
+  top: 10px;
+  width: min-content;
+}
+
+.current-portfolio .art-j5AB3K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.current-portfolio .use-mimicry-dGeRTk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.current-portfolio .featured-art-dGeRTk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .artist-spotlight-dGeRTk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 111px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .external-connections-dGeRTk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 155px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .art-in-the-news-dGeRTk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .use-mimicry-j5AB3K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.current-portfolio .use-mimicry-wEv7u6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.current-portfolio .draw-with-mimicry-wEv7u6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 162px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .importing-external-data-wEv7u6 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .mimicry-functions-wEv7u6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 152px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .generating-nf-ts-wEv7u6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .use-mimicry-LkEtXq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.current-portfolio .use-mimicry-kxzruu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 119px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.current-portfolio .understanding-persistence-kxzruu {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 191px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .code-docs-kxzruu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 79px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .best-practices-kxzruu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 101px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .code-examples-kxzruu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 113px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .general-j5AB3K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.current-portfolio .general-xb5GtV {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.current-portfolio .about-us-xb5GtV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .road-map-xb5GtV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .careers-xb5GtV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .blog-xb5GtV {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .header-89br09 {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 4px 6px 4px #0000004c;
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding: 12px 27px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.current-portfolio .header-links-2iomeP {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 44px;
+  position: relative;
+  width: 785px;
+}
+
+.current-portfolio .mimicry-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}
+
+.current-portfolio .infinite-animation-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .nft-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .featured-art-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .blog-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .wiki-ouVLmX {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.current-portfolio .draw_button-2iomeP {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--moon-raker);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  mix-blend-mode: darken;
+  padding: 10px 50px;
+  position: relative;
+  width: 168px;
+}
+
+.current-portfolio .draw-MPpiMv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 68px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}

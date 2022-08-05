@@ -1,0 +1,133 @@
+/* screen - pfpmadness-explainer */
+
+.pfpmadness-explainer {
+  background-color: var(--black-2);
+  height: 2652px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+#overlay-pfpmadness-explainer {
+  background-color: var(--black-2);
+}
+
+.overlay .pfpmadness-explainer {
+  background-color: #00000000;
+}
+
+.pfpmadness-explainer .pfpmadness_explainer-sDo2xY {
+  background-color: var(--white);
+  height: 799px;
+  left: calc(50vw - 478.5px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 399.5px);
+  width: 957px;
+}
+
+.pfpmadness-explainer .pfp-madness-d4xqlH {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.pfpmadness-explainer .frame-12-d4xqlH {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: min-content;
+  left: 48px;
+  position: absolute;
+  top: 81px;
+  width: min-content;
+}
+
+.pfpmadness-explainer .this-piece-is-one-ar-6quwja {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 609px;
+}
+
+.pfpmadness-explainer .group-12-6quwja {
+  background-color: transparent;
+  height: 250px;
+  min-width: 606px;
+  position: relative;
+}
+
+.pfpmadness-explainer .distribution-Ylsthr {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.pfpmadness-explainer .pfp-madness-plays-a-Ylsthr {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  width: 576px;
+}
+
+.pfpmadness-explainer .pfpmadness_202206301420-1-d4xqlH {
+  background-color: transparent;
+  height: 130px;
+  left: 676px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 234px;
+}
+
+.pfpmadness-explainer .pfpmadness_202206301419-1-d4xqlH {
+  background-color: transparent;
+  height: 130px;
+  left: 676px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 234px;
+}
+
+.pfpmadness-explainer .pfpmadness_202206301419-2-d4xqlH {
+  background-color: transparent;
+  height: 137px;
+  left: 676px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 310px;
+  width: 234px;
+}

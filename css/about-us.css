@@ -1,0 +1,675 @@
+/* screen - about-us */
+
+.about-us {
+  background-color: var(--black);
+  height: 1496px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.about-us .background-MpTUx9 {
+  background-color: transparent;
+  height: 1496px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.about-us .community_links-MpTUx9 {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1218px;
+  width: 1920px;
+}
+
+.about-us .frame-1-BXWt3K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.about-us .twitter-YQU6L1 {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.about-us .image-1-eE9LcA {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.about-us .twitter-eE9LcA {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.about-us .reddit-YQU6L1 {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.about-us .reddit-fuCGb0 {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.about-us .image-2-fuCGb0 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.about-us .github-YQU6L1 {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.about-us .github-oOjbpY {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.about-us .image-3-oOjbpY {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.about-us .telegram-YQU6L1 {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.about-us .telegram-sj0oCx {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.about-us .image-4-sj0oCx {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.about-us .footer-MpTUx9 {
+  background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1312px;
+  width: 1920px;
+}
+
+.about-us .frame-1-EKqZsY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 106px;
+  height: min-content;
+  justify-content: center;
+  left: 498px;
+  position: relative;
+  top: 10px;
+  width: min-content;
+}
+
+.about-us .art-b914uq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.about-us .use-mimicry-qfXxOf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about-us .featured-art-qfXxOf {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .artist-spotlight-qfXxOf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 111px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .external-connections-qfXxOf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 155px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .art-in-the-news-qfXxOf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .use-mimicry-b914uq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.about-us .use-mimicry-zUhnG8 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about-us .draw-with-mimicry-zUhnG8 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 162px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .importing-external-data-zUhnG8 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .mimicry-functions-zUhnG8 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 152px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .generating-nf-ts-zUhnG8 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .use-mimicry-6jCPpS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.about-us .use-mimicry-xGxHko {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 119px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about-us .understanding-persistence-xGxHko {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 191px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .code-docs-xGxHko {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 79px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .best-practices-xGxHko {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 101px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .code-examples-xGxHko {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 113px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .general-b914uq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.about-us .general-t6RbFq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about-us .about-us-t6RbFq {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .road-map-t6RbFq {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .careers-t6RbFq {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .blog-t6RbFq {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .img_20220726_123006-1-MpTUx9 {
+  background-color: transparent;
+  height: 335px;
+  left: 1271px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 822px;
+  width: 565px;
+}
+
+.about-us .group-11-MpTUx9 {
+  background-color: transparent;
+  height: 314px;
+  left: 310px;
+  position: absolute;
+  top: 769px;
+  width: 1305px;
+}
+
+.about-us .parad-is-a-strong-be-DnrOK4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 1301px;
+}
+
+.about-us .steven-parad-founder-DnrOK4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-us .group-10-MpTUx9 {
+  background-color: transparent;
+  height: 506px;
+  left: 310px;
+  position: absolute;
+  top: 232px;
+  width: 1305px;
+}
+
+.about-us .the-idea-for-mimicry-x0xA4x {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 1301px;
+}
+
+.about-us .mimicry-x0xA4x {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.about-us .about-us-MpTUx9 {
+  background-color: transparent;
+  height: auto;
+  left: 309px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: auto;
+}
+
+.about-us .header-MpTUx9 {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 4px 6px 4px #0000004c;
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding: 12px 27px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.about-us .header-links-0txs13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 44px;
+  position: relative;
+  width: 785px;
+}
+
+.about-us .mimicry-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}
+
+.about-us .infinite-animation-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .nft-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .featured-art-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .blog-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .wiki-LL2AvB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.about-us .draw_button-0txs13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--moon-raker);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  mix-blend-mode: darken;
+  padding: 10px 50px;
+  position: relative;
+  width: 168px;
+}
+
+.about-us .draw-8JFtj5 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 68px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}

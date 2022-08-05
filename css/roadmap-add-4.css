@@ -1,0 +1,83 @@
+/* screen - roadmap-add-4 */
+
+.roadmap-add-4 {
+  background-color: var(--black-2);
+  height: 1500px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+#overlay-roadmap-add-4 {
+  background-color: var(--black-2);
+}
+
+.overlay .roadmap-add-4 {
+  background-color: #00000000;
+}
+
+#overlay-roadmap-add-4 .roadmap-add-4 {
+  left: 1114.0001220703125px;
+  top: 394.0002136230469px;
+}
+
+#overlay-roadmap-add-4 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.roadmap-add-4 .roadmap-add-4-7BHBso {
+  background-color: var(--white);
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 649px;
+}
+
+.roadmap-add-4 .frame-9-74lqog {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 216px;
+  justify-content: center;
+  left: 128px;
+  position: relative;
+  top: 0px;
+  width: min-content;
+}
+
+.roadmap-add-4 .viewer-created-and-released-openly-YDnxci {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-4 .pure-html-integration-YDnxci {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-4 .revenue-sharing-through-security-token-YDnxci {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 393px;
+}

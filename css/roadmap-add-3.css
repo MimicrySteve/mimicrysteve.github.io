@@ -1,0 +1,105 @@
+/* screen - roadmap-add-3 */
+
+.roadmap-add-3 {
+  background-color: var(--black-2);
+  height: 1500px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+#overlay-roadmap-add-3 {
+  background-color: var(--black-2);
+}
+
+.overlay .roadmap-add-3 {
+  background-color: #00000000;
+}
+
+#overlay-roadmap-add-3 .roadmap-add-3 {
+  left: 1114.0001220703125px;
+  top: 361.99981689453125px;
+}
+
+#overlay-roadmap-add-3 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.roadmap-add-3 .roadmap-add-3-t7o2K7 {
+  background-color: var(--white);
+  height: 261px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 649px;
+}
+
+.roadmap-add-3 .frame-9-tZ1kph {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 216px;
+  justify-content: center;
+  left: 135px;
+  position: relative;
+  top: 23px;
+  width: min-content;
+}
+
+.roadmap-add-3 .sothebys-christies-integration-FJNAhq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -3px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-3 .artist-developer-demos-FJNAhq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-3 .galleries-FJNAhq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-3 .piece-discussion-boards-events-FJNAhq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-3 .portfolio-management-class-FJNAhq {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}

@@ -1,0 +1,93 @@
+/* screen - roadmap-add-1 */
+
+.roadmap-add-1 {
+  background-color: var(--black-2);
+  height: 1500px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+#overlay-roadmap-add-1 {
+  background-color: var(--black-2);
+}
+
+.overlay .roadmap-add-1 {
+  background-color: #00000000;
+}
+
+#overlay-roadmap-add-1 .roadmap-add-1 {
+  left: 1114.0004272460938px;
+  top: 399.00003814697266px;
+}
+
+#overlay-roadmap-add-1 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.roadmap-add-1 .roadmap-add-1-x2OzNH {
+  background-color: var(--white);
+  height: 216px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 649px;
+}
+
+.roadmap-add-1 .frame-9-kg0Jm7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 216px;
+  justify-content: center;
+  left: 135px;
+  position: relative;
+  top: 0px;
+  width: min-content;
+}
+
+.roadmap-add-1 .consumer-website-dFfm8I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-1 .javascript-engine-webapp-dFfm8I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-1 .improved-ui-dFfm8I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}
+
+.roadmap-add-1 .proprietary-function-creation-dFfm8I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 380px;
+}

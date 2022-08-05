@@ -1,0 +1,828 @@
+/* screen - roadmap */
+
+.roadmap {
+  background-color: var(--black);
+  height: 1500px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.roadmap .background-HbRUhy {
+  background-color: transparent;
+  height: 1500px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.roadmap .road-map-HbRUhy {
+  background-color: transparent;
+  height: auto;
+  left: 193px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 152px;
+  width: auto;
+}
+
+.roadmap .community_links-HbRUhy {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1222px;
+  width: 1920px;
+}
+
+.roadmap .frame-1-bkgJgZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.roadmap .twitter-p7nxo1 {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.roadmap .image-1-fw76EN {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.roadmap .twitter-fw76EN {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.roadmap .reddit-p7nxo1 {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.roadmap .reddit-Fcg0n3 {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.roadmap .image-2-Fcg0n3 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.roadmap .github-p7nxo1 {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.roadmap .github-vQ7fMh {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.roadmap .image-3-vQ7fMh {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.roadmap .telegram-p7nxo1 {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.roadmap .telegram-0CvTl8 {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.roadmap .image-4-0CvTl8 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.roadmap .footer-HbRUhy {
+  background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 1316px;
+  width: 1920px;
+}
+
+.roadmap .frame-1-ax0TJc {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 106px;
+  height: min-content;
+  justify-content: center;
+  left: 498px;
+  position: relative;
+  top: 10px;
+  width: min-content;
+}
+
+.roadmap .art-gLC8S8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.roadmap .use-mimicry-2gk61j {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.roadmap .featured-art-2gk61j {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .artist-spotlight-2gk61j {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 111px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .external-connections-2gk61j {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 155px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .art-in-the-news-2gk61j {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .use-mimicry-gLC8S8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.roadmap .use-mimicry-AvaeYC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.roadmap .draw-with-mimicry-AvaeYC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 162px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .importing-external-data-AvaeYC {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .mimicry-functions-AvaeYC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 152px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .generating-nf-ts-AvaeYC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .use-mimicry-67jL7S {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.roadmap .use-mimicry-C2HE2X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 119px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.roadmap .understanding-persistence-C2HE2X {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 191px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .code-docs-C2HE2X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 79px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .best-practices-C2HE2X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 101px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .code-examples-C2HE2X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 113px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .general-gLC8S8 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.roadmap .general-6gwRLk {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.roadmap .about-us-6gwRLk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .road-map-6gwRLk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .careers-6gwRLk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .blog-6gwRLk {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .line-8-HbRUhy {
+  background-color: transparent;
+  height: 810px;
+  left: 886px;
+  position: absolute;
+  top: 304px;
+  width: 13px;
+}
+
+.roadmap .frame-6-HbRUhy {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  height: min-content;
+  left: 370px;
+  position: absolute;
+  top: 350px;
+  width: min-content;
+}
+
+.roadmap .group-3-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  margin-right: -4px;
+  min-width: 559px;
+  position: relative;
+}
+
+.roadmap .line-16-ONxYU6 {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .demo-ONxYU6 {
+  background-color: transparent;
+  color: #2300ff;
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .june-27-2022-ONxYU6 {
+  background-color: transparent;
+  color: #2300ff;
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 325px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: 230px;
+}
+
+.roadmap .group-4-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  min-width: 518px;
+  position: relative;
+}
+
+.roadmap .website-Vi5JXz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .line-17-Vi5JXz {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .group-5-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  min-width: 518px;
+  position: relative;
+}
+
+.roadmap .community-creation-dZVgt6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .line-17-dZVgt6 {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .group-6-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  min-width: 518px;
+  position: relative;
+}
+
+.roadmap .seed-round-sg7vM2 {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .line-17-sg7vM2 {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .group-8-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  min-width: 518px;
+  position: relative;
+}
+
+.roadmap .external-integration-A91ThO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .line-17-A91ThO {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .group-9-g7wCvp {
+  background-color: transparent;
+  height: 84px;
+  min-width: 518px;
+  position: relative;
+}
+
+.roadmap .open-sourcing-B9rZ0E {
+  background-color: transparent;
+  cursor: pointer;
+  height: 84px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 394px;
+}
+
+.roadmap .line-17-B9rZ0E {
+  background-color: transparent;
+  height: 14px;
+  left: 363px;
+  position: absolute;
+  top: 33px;
+  width: 153px;
+}
+
+.roadmap .line-17-HbRUhy {
+  background-color: transparent;
+  height: 92px;
+  left: 886px;
+  position: absolute;
+  top: 304px;
+  width: 13px;
+}
+
+.roadmap .img_20220726_123006-1-HbRUhy {
+  background-color: transparent;
+  height: 335px;
+  left: 1308px;
+  mix-blend-mode: screen;
+  position: fixed;
+  top: 943px;
+  width: 565px;
+}
+
+.roadmap .header-HbRUhy {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 4px 6px 4px #0000004c;
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding: 12px 27px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.roadmap .header-links-Jqomx1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 44px;
+  position: relative;
+  width: 785px;
+}
+
+.roadmap .mimicry-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}
+
+.roadmap .infinite-animation-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .nft-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .featured-art-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .blog-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .wiki-20kG7q {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.roadmap .draw_button-Jqomx1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--moon-raker);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  mix-blend-mode: darken;
+  padding: 10px 50px;
+  position: relative;
+  width: 168px;
+}
+
+.roadmap .draw-KXPiCd {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 68px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}

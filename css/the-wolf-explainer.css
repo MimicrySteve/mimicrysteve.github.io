@@ -1,0 +1,153 @@
+/* screen - the-wolf-explainer */
+
+.the-wolf-explainer {
+  background-color: var(--black-2);
+  height: 2652px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+#overlay-the-wolf-explainer {
+  background-color: var(--black-2);
+}
+
+.overlay .the-wolf-explainer {
+  background-color: #00000000;
+}
+
+.the-wolf-explainer .the-wolf-explainer-4qb8xJ {
+  background-color: var(--white);
+  height: 841px;
+  left: calc(50vw - 478.5px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 420.5px);
+  width: 957px;
+}
+
+.the-wolf-explainer .the-wolf-cjtpcO {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 270px;
+}
+
+.the-wolf-explainer .x20220315_-first_-vie-cjtpcO {
+  background-color: transparent;
+  height: 122px;
+  left: 668px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 257px;
+}
+
+.the-wolf-explainer .x1_202203241800-1-cjtpcO {
+  background-color: transparent;
+  height: 130px;
+  left: 668px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 589px;
+  width: 256px;
+}
+
+.the-wolf-explainer .x20220316_-core_-func-cjtpcO {
+  background-color: transparent;
+  height: 124px;
+  left: 670px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 217px;
+  width: 257px;
+}
+
+.the-wolf-explainer .x20220320_-massive_-changes-1-cjtpcO {
+  background-color: transparent;
+  height: 130px;
+  left: 671px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 400px;
+  width: 256px;
+}
+
+.the-wolf-explainer .frame-13-cjtpcO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  height: min-content;
+  left: 48px;
+  padding: 10px 0px;
+  position: absolute;
+  top: 76px;
+  width: min-content;
+}
+
+.the-wolf-explainer .the-wolf-tells-the-s-xAXYn7 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 576px;
+}
+
+.the-wolf-explainer .group-13-xAXYn7 {
+  background-color: transparent;
+  height: 232px;
+  margin-right: -4px;
+  min-width: 605px;
+  position: relative;
+}
+
+.the-wolf-explainer .in-addition-to-the-o-EHB8xD {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 576px;
+}
+
+.the-wolf-explainer .distribution-EHB8xD {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}

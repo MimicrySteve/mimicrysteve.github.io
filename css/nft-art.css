@@ -1,0 +1,823 @@
+/* screen - nft-art */
+
+.nft-art {
+  background-color: var(--black);
+  height: 1881px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.nft-art .background-dHoySO {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgb(62.585666477680206, 107.83417046070099, 224.18749898672104) 100%);
+  background-color: transparent;
+  height: 1881px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.nft-art .footer-dHoySO {
+  background-color: transparent;
+  height: 278px;
+  left: 0px;
+  position: absolute;
+  top: 1603px;
+  width: 1920px;
+}
+
+.nft-art .community_links-xykIMu {
+  background-color: var(--gulf-blue);
+  box-shadow: inset 0px 0px 4px 5px #ffffff99;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.nft-art .frame-1-7GlAkE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 120px;
+  height: min-content;
+  justify-content: center;
+  left: 473px;
+  position: relative;
+  top: 21px;
+  width: min-content;
+}
+
+.nft-art .twitter-XANgSR {
+  background-color: transparent;
+  height: 41px;
+  min-width: 147px;
+  position: relative;
+}
+
+.nft-art .image-1-S4TLl8 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.nft-art .twitter-S4TLl8 {
+  background-color: transparent;
+  height: 24px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 122px;
+}
+
+.nft-art .reddit-XANgSR {
+  background-color: transparent;
+  height: 42px;
+  min-width: 150px;
+  position: relative;
+}
+
+.nft-art .reddit-t322qh {
+  background-color: transparent;
+  height: 24px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.nft-art .image-2-t322qh {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 41px;
+}
+
+.nft-art .github-XANgSR {
+  background-color: transparent;
+  height: 46px;
+  min-width: 157px;
+  position: relative;
+}
+
+.nft-art .github-U5K5mG {
+  background-color: transparent;
+  height: 24px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.nft-art .image-3-U5K5mG {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.nft-art .telegram-XANgSR {
+  background-color: transparent;
+  height: 42px;
+  margin-right: -2px;
+  min-width: 168px;
+  position: relative;
+}
+
+.nft-art .telegram-akxxH4 {
+  background-color: transparent;
+  height: 24px;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 122px;
+}
+
+.nft-art .image-4-akxxH4 {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 54px;
+}
+
+.nft-art .footer-xykIMu {
+  background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
+  background-color: transparent;
+  height: 184px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 94px;
+  width: 1920px;
+}
+
+.nft-art .frame-1-Uv1blk {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 106px;
+  height: min-content;
+  justify-content: center;
+  left: 498px;
+  position: relative;
+  top: 10px;
+  width: min-content;
+}
+
+.nft-art .art-xBIOiT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .use-mimicry-vWx6GI {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nft-art .featured-art-vWx6GI {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 91px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .artist-spotlight-vWx6GI {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 111px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .external-connections-vWx6GI {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 155px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .art-in-the-news-vWx6GI {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .use-mimicry-xBIOiT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .use-mimicry-OSyl5l {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 100px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nft-art .draw-with-mimicry-OSyl5l {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 162px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .importing-external-data-OSyl5l {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .mimicry-functions-OSyl5l {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 152px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .generating-nf-ts-OSyl5l {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .use-mimicry-TFbFVI {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .use-mimicry-5Kck4H {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 119px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nft-art .understanding-persistence-5Kck4H {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 191px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .code-docs-5Kck4H {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 79px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .best-practices-5Kck4H {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 101px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .code-examples-5Kck4H {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 113px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .general-xBIOiT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .general-MpL1Iu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.nft-art .about-us-MpL1Iu {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .road-map-MpL1Iu {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .careers-MpL1Iu {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 55px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .blog-MpL1Iu {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .img_20220726_123006-2-dHoySO {
+  background-color: transparent;
+  height: 254px;
+  left: 1139px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 250px;
+  width: 583px;
+}
+
+.nft-art .infinite-animation-and-nfts-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 121px;
+  width: auto;
+}
+
+.nft-art .infinite-animation-i-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 360px;
+  width: 1200px;
+}
+
+.nft-art .frame-11-dHoySO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: min-content;
+  left: 384px;
+  position: absolute;
+  top: 678px;
+  width: 1125px;
+}
+
+.nft-art .perpetual-description-wWOw6p {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .frame-10-ARXbYT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .perpetual-HgebDW {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 175px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .what-distinguishes-i-HgebDW {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1110px;
+}
+
+.nft-art .uncopyable-description-wWOw6p {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .uncopyable-sjjntJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 204px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .ia-is-philosophicall-sjjntJ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1110px;
+}
+
+.nft-art .scarce-description-wWOw6p {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .scarce-ftlVSu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 125px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .each-piece-of-infini-ftlVSu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1110px;
+}
+
+.nft-art .investable-description-wWOw6p {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  position: relative;
+  width: min-content;
+}
+
+.nft-art .valuable-5kguCU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .a-piece-of-artwork-t-5kguCU {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 1110px;
+}
+
+.nft-art .perpetual-uncopyable-scarce-valuable-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 374px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 226px;
+  width: auto;
+}
+
+.nft-art .the-same-question-ge-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 439px;
+  width: auto;
+}
+
+.nft-art .the-issue-is-clearly-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 547px;
+  width: 1200px;
+}
+
+.nft-art .what-gives-an-art-nft-value-dHoySO {
+  background-color: transparent;
+  height: auto;
+  left: 782px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 487px;
+  width: auto;
+}
+
+.nft-art .header-dHoySO {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 4px 6px 4px #0000004c;
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding: 12px 27px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.nft-art .header-links-tXAINC {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 44px;
+  position: relative;
+  width: 785px;
+}
+
+.nft-art .mimicry-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}
+
+.nft-art .infinite-animation-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .nft-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 43px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .featured-art-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .blog-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 44px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .wiki-xnot9k {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 53px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .draw_button-tXAINC {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--moon-raker);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  mix-blend-mode: darken;
+  padding: 10px 50px;
+  position: relative;
+  width: 168px;
+}
+
+.nft-art .draw-Sia6WL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 68px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
