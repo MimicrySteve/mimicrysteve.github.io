@@ -30,20 +30,20 @@
   position: absolute;
   text-align: left;
   top: 249px;
-  width: 1200px;
+  width: 1214px;
 }
 
 .persistent-art .infinite-animation-i-ElHrxq {
   background-color: transparent;
   height: auto;
-  left: 360px;
+  left: 393px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
   top: 688px;
-  width: 1200px;
+  width: 1181px;
 }
 
 .persistent-art .infinite-animation-artwork-n9JY6v {
@@ -631,4 +631,30 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.persistent-art .x1-n9JY6v {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 688px;
+  width: auto;
+}
+
+.persistent-art .x2-n9JY6v {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 848px;
+  width: auto;
 }

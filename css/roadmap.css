@@ -510,7 +510,7 @@
   background-color: transparent;
   color: #2300ff;
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxl);
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
   height: 84px;
@@ -528,7 +528,7 @@
   background-color: transparent;
   color: #2300ff;
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -698,16 +698,6 @@
   position: absolute;
   top: 304px;
   width: 13px;
-}
-
-.roadmap .img_20220726_123006-1-HbRUhy {
-  background-color: transparent;
-  height: 335px;
-  left: 1308px;
-  mix-blend-mode: screen;
-  position: fixed;
-  top: 943px;
-  width: 565px;
 }
 
 .roadmap .header-HbRUhy {

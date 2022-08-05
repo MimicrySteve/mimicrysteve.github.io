@@ -10,9 +10,9 @@
   --font-size-l: 16px;
   --font-size-m: 14px;
   --font-size-s: 12px;
-  --font-size-xl: 20px;
-  --font-size-xxl: 24px;
-  --font-size-xxxl: 25px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
   --font-size-xxxxl: 30px;
  
   --font-family-inter: "Inter", Helvetica;
@@ -30,7 +30,7 @@
 .jomolhari-normal-dove-gray-20px {
   color: var(--dove-gray);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -38,7 +38,7 @@
 .jomolhari-normal-white-20px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -46,7 +46,7 @@
 .jomolhari-normal-black-20px {
   color: var(--black);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -54,7 +54,7 @@
 .jomolhari-normal-blue-20px {
   color: var(--blue);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -86,7 +86,7 @@
 .jomolhari-normal-white-25px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxl);
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
 }
@@ -94,7 +94,7 @@
 .jomolhari-normal-black-24px {
   color: var(--black);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -118,7 +118,7 @@
 .jomolhari-normal-white-18px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
-  font-size: 18px;
+  font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 400;
 }
