@@ -612,8 +612,8 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
-  top: 0px;
+  position: absolute;
+  top: -0px;
   width: 1920px;
 }
 

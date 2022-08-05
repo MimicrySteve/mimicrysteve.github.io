@@ -522,16 +522,6 @@
   width: auto;
 }
 
-.blog-5-security .img_20220726_123006-1-pvmtZU {
-  background-color: transparent;
-  height: 335px;
-  left: 0px;
-  mix-blend-mode: screen;
-  position: fixed;
-  top: 5px;
-  width: 426px;
-}
-
 .blog-5-security .header-pvmtZU {
   align-items: flex-start;
   background-color: var(--white);
@@ -542,7 +532,7 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 1920px;
 }
@@ -659,4 +649,14 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.blog-5-security .img_20220726_123006-1-pvmtZU {
+  background-color: transparent;
+  height: 335px;
+  left: 0px;
+  mix-blend-mode: screen;
+  position: fixed;
+  top: 5px;
+  width: 426px;
 }

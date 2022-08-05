@@ -648,16 +648,6 @@
   width: 526px;
 }
 
-.blog-1-understanding-ia .img_20220726_123006-1-sxforx {
-  background-color: transparent;
-  height: 335px;
-  left: 43px;
-  mix-blend-mode: screen;
-  position: fixed;
-  top: 900px;
-  width: 565px;
-}
-
 .blog-1-understanding-ia .header-sxforx {
   align-items: flex-start;
   background-color: var(--white);
@@ -668,7 +658,7 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 1920px;
 }
@@ -785,4 +775,14 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.blog-1-understanding-ia .img_20220726_123006-1-sxforx {
+  background-color: transparent;
+  height: 335px;
+  left: 43px;
+  mix-blend-mode: screen;
+  position: fixed;
+  top: 900px;
+  width: 565px;
 }

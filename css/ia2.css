@@ -474,6 +474,93 @@
   width: 565px;
 }
 
+.ia2 .infinite-animation-i-RcVNxI {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 318px;
+  width: 1320px;
+}
+
+.ia2 .infinite-animation-artwork-RcVNxI {
+  background-color: transparent;
+  height: auto;
+  left: 240px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  width: auto;
+}
+
+.ia2 .group-19-RcVNxI {
+  background-color: transparent;
+  height: 237px;
+  left: 300px;
+  position: absolute;
+  top: 725px;
+  width: 1328px;
+}
+
+.ia2 .infinite-animation-i-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1272px;
+}
+
+.ia2 .x1-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 18px;
+}
+
+.ia2 .x2-9TYsBY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 18px;
+}
+
+.ia2 .infinite-animation-i-FhUdMg {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  width: 1287px;
+}
+
 .ia2 .header-RcVNxI {
   align-items: flex-start;
   background-color: var(--white);
@@ -601,91 +688,4 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
-}
-
-.ia2 .infinite-animation-i-RcVNxI {
-  background-color: transparent;
-  height: auto;
-  left: 300px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 318px;
-  width: 1320px;
-}
-
-.ia2 .infinite-animation-artwork-RcVNxI {
-  background-color: transparent;
-  height: auto;
-  left: 240px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 150px;
-  width: auto;
-}
-
-.ia2 .group-19-RcVNxI {
-  background-color: transparent;
-  height: 237px;
-  left: 300px;
-  position: absolute;
-  top: 725px;
-  width: 1328px;
-}
-
-.ia2 .infinite-animation-i-9TYsBY {
-  background-color: transparent;
-  height: auto;
-  left: 36px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 1272px;
-}
-
-.ia2 .x1-9TYsBY {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: 18px;
-}
-
-.ia2 .x2-9TYsBY {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 160px;
-  width: 18px;
-}
-
-.ia2 .infinite-animation-i-FhUdMg {
-  background-color: transparent;
-  height: auto;
-  left: 33px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 160px;
-  width: 1287px;
 }

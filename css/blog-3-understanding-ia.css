@@ -2,7 +2,7 @@
 
 .blog-3-understanding-ia {
   background-color: var(--black);
-  height: 1181px;
+  height: 1432px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -13,7 +13,7 @@
 .blog-3-understanding-ia .background-J6hAt9 {
   background: linear-gradient(180deg, rgb(33.63698065280914, 56.85809701681137, 139.18750405311584) 0%, rgba(0, 0, 0, 0) 62.5%);
   background-color: transparent;
-  height: 1181px;
+  height: 1432px;
   left: 0px;
   mix-blend-mode: normal;
   overflow: hidden;
@@ -27,7 +27,7 @@
   height: 278px;
   left: -1px;
   position: absolute;
-  top: 903px;
+  top: 1154px;
   width: 1921px;
 }
 
@@ -684,6 +684,6 @@
   left: 1334px;
   mix-blend-mode: screen;
   position: fixed;
-  top: 323px;
+  top: 574px;
   width: 565px;
 }

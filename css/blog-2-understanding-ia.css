@@ -542,7 +542,7 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
   width: 1920px;
 }

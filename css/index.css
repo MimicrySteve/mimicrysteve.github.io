@@ -1,12 +1,12 @@
 /* screen - index */
 
 .index {
-  background-color: transparent;
+  background-color: var(--black);
   height: 2076px;
   mix-blend-mode: normal;
   overflow-x: hidden;
   position: relative;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .background-template-IO3Fu5 {
@@ -17,7 +17,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .community_links-IO3Fu5 {
@@ -29,7 +29,7 @@
   overflow: hidden;
   position: absolute;
   top: 1800px;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .frame-1-CmpvxU {
@@ -39,7 +39,7 @@
   gap: 120px;
   height: min-content;
   justify-content: center;
-  left: 476px;
+  left: 473px;
   position: relative;
   top: 21px;
   width: min-content;
@@ -179,7 +179,7 @@
   overflow: hidden;
   position: absolute;
   top: 1892px;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .frame-1-6isyAT {
@@ -189,7 +189,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 501px;
+  left: 498px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -460,7 +460,7 @@
   left: 360px;
   position: absolute;
   top: 350px;
-  width: 1277px;
+  width: 1271px;
 }
 
 .index .mimicry-is-the-first-XQ69nU {
@@ -473,7 +473,7 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: 1273px;
+  width: 1267px;
 }
 
 .index .infinite-animation-t-XQ69nU {
@@ -487,7 +487,7 @@
   position: absolute;
   text-align: left;
   top: 85px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .group-14-IO3Fu5 {
@@ -496,7 +496,7 @@
   left: 360px;
   position: absolute;
   top: 590px;
-  width: 1272px;
+  width: 1266px;
 }
 
 .index .envisioning-real-time-data-l6pkTk {
@@ -523,7 +523,7 @@
   position: absolute;
   text-align: left;
   top: 60px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .line-3-l6pkTk {
@@ -533,7 +533,7 @@
   object-fit: cover;
   position: absolute;
   top: -3px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .group-16-IO3Fu5 {
@@ -542,7 +542,7 @@
   left: 360px;
   position: absolute;
   top: 1230px;
-  width: 1272px;
+  width: 1266px;
 }
 
 .index .flexible-interface-ZgRsOv {
@@ -569,7 +569,7 @@
   position: absolute;
   text-align: left;
   top: 60px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .line-5-ZgRsOv {
@@ -579,7 +579,7 @@
   object-fit: cover;
   position: absolute;
   top: -3px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .group-17-IO3Fu5 {
@@ -588,7 +588,7 @@
   left: 360px;
   position: absolute;
   top: 1528px;
-  width: 1272px;
+  width: 1266px;
 }
 
 .index .final-export-is-alwa-fpL01O {
@@ -601,7 +601,7 @@
   position: absolute;
   text-align: left;
   top: 61px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .export-to-html-fpL01O {
@@ -625,7 +625,7 @@
   object-fit: cover;
   position: absolute;
   top: -3px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .logo-phrase-IO3Fu5 {
@@ -634,7 +634,7 @@
   left: 0px;
   position: absolute;
   top: 100px;
-  width: 1928px;
+  width: 1922px;
 }
 
 .index .realtime-rendering-s-bSLCTs {
@@ -645,14 +645,14 @@
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 596px;
+  left: 594px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: center;
   top: 155px;
-  width: 735px;
+  width: 733px;
 }
 
 .index .rectangle-5-bSLCTs {
@@ -662,18 +662,18 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .recording_202207281743-1-bSLCTs {
   background-color: transparent;
   height: 152px;
-  left: 361px;
+  left: 360px;
   mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
   top: 0px;
-  width: 1266px;
+  width: 1262px;
 }
 
 .index .group-15-IO3Fu5 {
@@ -682,7 +682,7 @@
   left: 360px;
   position: absolute;
   top: 870px;
-  width: 1274px;
+  width: 1268px;
 }
 
 .index .built-in-support-for-nf-ts-CsB1PH {
@@ -709,7 +709,7 @@
   position: absolute;
   text-align: left;
   top: 60px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .line-4-CsB1PH {
@@ -719,7 +719,7 @@
   object-fit: cover;
   position: absolute;
   top: -3px;
-  width: 1268px;
+  width: 1262px;
 }
 
 .index .how-nf-ts-are-owned-CsB1PH {
@@ -745,9 +745,9 @@
   left: 0px;
   mix-blend-mode: normal;
   padding: 12px 27px;
-  position: fixed;
+  position: absolute;
   top: 0px;
-  width: 1926px;
+  width: 1920px;
 }
 
 .index .header-links-74EEvB {
@@ -867,7 +867,7 @@
 .index .img_20220726_123006-2-IO3Fu5 {
   background-color: transparent;
   height: 254px;
-  left: 1284px;
+  left: 1278px;
   mix-blend-mode: screen;
   position: fixed;
   top: 435px;
