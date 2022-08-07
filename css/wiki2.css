@@ -21,16 +21,6 @@
   width: 1920px;
 }
 
-.wiki2 .img_20220726_123006-1-CLVtXN {
-  background-color: transparent;
-  height: 335px;
-  left: 35px;
-  mix-blend-mode: screen;
-  position: absolute;
-  top: 283px;
-  width: 565px;
-}
-
 .wiki2 .footer-CLVtXN {
   background-color: transparent;
   height: 278px;
@@ -59,7 +49,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 498px;
+  left: 518px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -109,21 +99,22 @@
   text-align: center;
 }
 
-.wiki2 .external-connections-MWb0wB {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .wiki2 .art-in-the-news-MWb0wB {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.wiki2 .blog-MWb0wB {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -313,12 +304,12 @@
   text-align: center;
 }
 
-.wiki2 .blog-njlWeZ {
+.wiki2 .disclosures-njlWeZ {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -659,107 +650,6 @@
   width: auto;
 }
 
-.wiki2 .runner-CLVtXN {
-  background-color: transparent;
-  height: 1452px;
-  left: 0px;
-  overflow: hidden;
-  position: absolute;
-  top: 76px;
-  width: 413px;
-}
-
-.wiki2 .wiki-MBH9EG {
-  background-color: transparent;
-  height: auto;
-  left: 50px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 25px;
-  width: auto;
-}
-
-.wiki2 .frame-3-MBH9EG {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  height: min-content;
-  left: 50px;
-  position: absolute;
-  top: 138px;
-  width: 339px;
-}
-
-.wiki2 .how-to-use-external-data-hfvxAn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -54px;
-  margin-top: -1px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 393px;
-}
-
-.wiki2 .what-rights-are-guaranteed-by-ia-hfvxAn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -54px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 393px;
-}
-
-.wiki2 .mimicrys-commitment-to-open-source-hfvxAn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -54px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 393px;
-}
-
-.wiki2 .how-does-ia-ensure-scarcity-hfvxAn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -54px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 393px;
-}
-
-.wiki2 .what-security-does-ia-provide-hfvxAn {
-  background-color: transparent;
-  cursor: pointer;
-  height: 29px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -54px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  width: 393px;
-}
-
 .wiki2 .spacer-_-10-CLVtXN {
   background-color: transparent;
   height: 40px;
@@ -982,4 +872,105 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.wiki2 .img_20220726_123006-1-CLVtXN {
+  background-color: transparent;
+  height: 335px;
+  left: 35px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 283px;
+  width: 565px;
+}
+
+.wiki2 .frame-3-CLVtXN {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  left: 50px;
+  position: absolute;
+  top: 214px;
+  width: 339px;
+}
+
+.wiki2 .how-to-use-external-data-ojSduf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .what-rights-are-guaranteed-by-ia-ojSduf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .mimicrys-commitment-to-open-source-ojSduf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .how-does-ia-ensure-scarcity-ojSduf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .what-security-does-ia-provide-ojSduf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: -54px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 393px;
+}
+
+.wiki2 .wiki-CLVtXN {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 101px;
+  width: auto;
 }

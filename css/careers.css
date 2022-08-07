@@ -215,7 +215,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 498px;
+  left: 518px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -265,21 +265,22 @@
   text-align: center;
 }
 
-.careers .external-connections-Q8f3II {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .careers .art-in-the-news-Q8f3II {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.careers .blog-Q8f3II {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -469,12 +470,12 @@
   text-align: center;
 }
 
-.careers .blog-rCesVU {
+.careers .disclosures-rCesVU {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -612,9 +613,9 @@
 .careers .img_20220726_123006-1-AiQzRH {
   background-color: transparent;
   height: 334px;
-  left: 432px;
+  left: 715px;
   mix-blend-mode: screen;
   position: fixed;
-  top: 351px;
+  top: 298px;
   width: 565px;
 }

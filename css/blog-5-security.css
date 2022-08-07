@@ -50,7 +50,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 498px;
+  left: 518px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -100,21 +100,22 @@
   text-align: center;
 }
 
-.blog-5-security .external-connections-Mhsg3M {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .blog-5-security .art-in-the-news-Mhsg3M {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-5-security .blog-Mhsg3M {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -304,12 +305,12 @@
   text-align: center;
 }
 
-.blog-5-security .blog-Ot8wLx {
+.blog-5-security .disclosures-Ot8wLx {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -463,24 +464,6 @@
   position: absolute;
   top: 0px;
   width: 54px;
-}
-
-.blog-5-security .body-pvmtZU {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 360px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 308px;
-  width: 1200px;
 }
 
 .blog-5-security .blog-photo-pvmtZU {
@@ -651,12 +634,189 @@
   text-align: center;
 }
 
+.blog-5-security .body-pvmtZU {
+  background-color: transparent;
+  height: auto;
+  left: 356px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 308px;
+  width: 1200px;
+}
+
+.blog-5-security .having-2-fa-and-ther-pvmtZU {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 700;
+  height: auto;
+  left: 356px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 699px;
+  width: 1200px;
+}
+
+.blog-5-security .group-26-pvmtZU {
+  background-color: transparent;
+  height: 89px;
+  left: 356px;
+  position: absolute;
+  top: 734px;
+  width: 1204px;
+}
+
+.blog-5-security .unfortunately-there-Eod0HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: 1200px;
+}
+
+.blog-5-security .solutions-Eod0HI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  width: 271px;
+}
+
+.blog-5-security .group-23-pvmtZU {
+  background-color: transparent;
+  height: 70px;
+  left: 356px;
+  position: absolute;
+  top: 840px;
+  width: 1204px;
+}
+
+.blog-5-security .i-was-sad-to-find-ou-xnbEVI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 1200px;
+}
+
+.blog-5-security .securing-your-browser-xnbEVI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 269px;
+}
+
+.blog-5-security .group-24-pvmtZU {
+  background-color: transparent;
+  height: 327px;
+  left: 356px;
+  position: absolute;
+  top: 927px;
+  width: 1204px;
+}
+
+.blog-5-security .the-first-and-most-i-d2kphg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: 1200px;
+}
+
+.blog-5-security .securing-the-os-better-d2kphg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 282px;
+}
+
+.blog-5-security .group-25-pvmtZU {
+  background-color: transparent;
+  height: 377px;
+  left: 356px;
+  position: absolute;
+  top: 1271px;
+  width: 1204px;
+}
+
+.blog-5-security .this-2-desktop-setup-oz5syG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 1200px;
+}
+
+.blog-5-security .on-the-go-oz5syG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 273px;
+}
+
 .blog-5-security .img_20220726_123006-1-pvmtZU {
   background-color: transparent;
   height: 335px;
-  left: 0px;
+  left: 11px;
   mix-blend-mode: screen;
   position: fixed;
-  top: 5px;
-  width: 426px;
+  top: 90px;
+  width: 565px;
 }

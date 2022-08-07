@@ -1,8 +1,8 @@
-/* screen - about-us */
+/* screen - disclosures */
 
-.about-us {
+.disclosures {
   background-color: var(--black);
-  height: 1496px;
+  height: 1373px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -10,9 +10,9 @@
   width: 1920px;
 }
 
-.about-us .background-MpTUx9 {
+.disclosures .background-q6xF1G {
   background-color: transparent;
-  height: 1496px;
+  height: 954px;
   left: 0px;
   mix-blend-mode: normal;
   position: absolute;
@@ -20,7 +20,33 @@
   width: 1920px;
 }
 
-.about-us .community_links-MpTUx9 {
+.disclosures .infinite-animation-a-q6xF1G {
+  background-color: transparent;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 283px;
+  width: 1301px;
+}
+
+.disclosures .disclosures-q6xF1G {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 167px;
+  width: auto;
+}
+
+.disclosures .community_links-q6xF1G {
   background-color: var(--gulf-blue);
   box-shadow: inset 0px 0px 4px 5px #ffffff99;
   height: 94px;
@@ -28,11 +54,11 @@
   mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
-  top: 1218px;
+  top: 1095px;
   width: 1920px;
 }
 
-.about-us .frame-1-BXWt3K {
+.disclosures .frame-1-1KLqNy {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -45,14 +71,14 @@
   width: min-content;
 }
 
-.about-us .twitter-YQU6L1 {
+.disclosures .twitter-jVay0x {
   background-color: transparent;
   height: 41px;
   min-width: 147px;
   position: relative;
 }
 
-.about-us .image-1-eE9LcA {
+.disclosures .image-1-kfK2Mb {
   background-color: transparent;
   height: 41px;
   left: 0px;
@@ -63,7 +89,7 @@
   width: 40px;
 }
 
-.about-us .twitter-eE9LcA {
+.disclosures .twitter-kfK2Mb {
   background-color: transparent;
   height: 24px;
   left: 23px;
@@ -76,14 +102,14 @@
   width: 122px;
 }
 
-.about-us .reddit-YQU6L1 {
+.disclosures .reddit-jVay0x {
   background-color: transparent;
   height: 42px;
   min-width: 150px;
   position: relative;
 }
 
-.about-us .reddit-fuCGb0 {
+.disclosures .reddit-bXwVAs {
   background-color: transparent;
   height: 24px;
   left: 26px;
@@ -96,7 +122,7 @@
   width: 122px;
 }
 
-.about-us .image-2-fuCGb0 {
+.disclosures .image-2-bXwVAs {
   background-color: transparent;
   height: 42px;
   left: 0px;
@@ -107,14 +133,14 @@
   width: 41px;
 }
 
-.about-us .github-YQU6L1 {
+.disclosures .github-jVay0x {
   background-color: transparent;
   height: 46px;
   min-width: 157px;
   position: relative;
 }
 
-.about-us .github-oOjbpY {
+.disclosures .github-rHxyF8 {
   background-color: transparent;
   height: 24px;
   left: 33px;
@@ -127,7 +153,7 @@
   width: 122px;
 }
 
-.about-us .image-3-oOjbpY {
+.disclosures .image-3-rHxyF8 {
   background-color: transparent;
   height: 46px;
   left: 0px;
@@ -138,7 +164,7 @@
   width: 51px;
 }
 
-.about-us .telegram-YQU6L1 {
+.disclosures .telegram-jVay0x {
   background-color: transparent;
   height: 42px;
   margin-right: -2px;
@@ -146,7 +172,7 @@
   position: relative;
 }
 
-.about-us .telegram-sj0oCx {
+.disclosures .telegram-5f1Spd {
   background-color: transparent;
   height: 24px;
   left: 44px;
@@ -159,7 +185,7 @@
   width: 122px;
 }
 
-.about-us .image-4-sj0oCx {
+.disclosures .image-4-5f1Spd {
   background-color: transparent;
   height: 42px;
   left: 0px;
@@ -170,7 +196,7 @@
   width: 54px;
 }
 
-.about-us .footer-MpTUx9 {
+.disclosures .footer-q6xF1G {
   background: linear-gradient(180deg, rgba(5.020313411951065, 13.124544192105532, 86.06250151991844, 0.6800000071525574) 42.1875%, rgb(51.70390158891678, 70.86473822593689, 243.31249594688416) 90.625%);
   background-color: transparent;
   height: 184px;
@@ -178,11 +204,11 @@
   mix-blend-mode: normal;
   overflow: hidden;
   position: absolute;
-  top: 1312px;
+  top: 1189px;
   width: 1920px;
 }
 
-.about-us .frame-1-EKqZsY {
+.disclosures .frame-1-wM011x {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -195,7 +221,7 @@
   width: min-content;
 }
 
-.about-us .art-b914uq {
+.disclosures .art-jisBU5 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -206,7 +232,7 @@
   width: min-content;
 }
 
-.about-us .use-mimicry-qfXxOf {
+.disclosures .use-mimicry-xxzNvz {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -218,7 +244,7 @@
   text-decoration: underline;
 }
 
-.about-us .featured-art-qfXxOf {
+.disclosures .featured-art-xxzNvz {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -229,7 +255,7 @@
   text-align: center;
 }
 
-.about-us .artist-spotlight-qfXxOf {
+.disclosures .artist-spotlight-xxzNvz {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -239,7 +265,7 @@
   text-align: center;
 }
 
-.about-us .art-in-the-news-qfXxOf {
+.disclosures .art-in-the-news-xxzNvz {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -249,7 +275,7 @@
   text-align: center;
 }
 
-.about-us .blog-qfXxOf {
+.disclosures .blog-xxzNvz {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -260,7 +286,7 @@
   text-align: center;
 }
 
-.about-us .use-mimicry-b914uq {
+.disclosures .use-mimicry-jisBU5 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -271,7 +297,7 @@
   width: min-content;
 }
 
-.about-us .use-mimicry-zUhnG8 {
+.disclosures .use-mimicry-UzjKM2 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -283,7 +309,7 @@
   text-decoration: underline;
 }
 
-.about-us .draw-with-mimicry-zUhnG8 {
+.disclosures .draw-with-mimicry-UzjKM2 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -293,7 +319,7 @@
   text-align: center;
 }
 
-.about-us .importing-external-data-zUhnG8 {
+.disclosures .importing-external-data-UzjKM2 {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -304,7 +330,7 @@
   text-align: center;
 }
 
-.about-us .mimicry-functions-zUhnG8 {
+.disclosures .mimicry-functions-UzjKM2 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -314,7 +340,7 @@
   text-align: center;
 }
 
-.about-us .generating-nf-ts-zUhnG8 {
+.disclosures .generating-nf-ts-UzjKM2 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -324,7 +350,7 @@
   text-align: center;
 }
 
-.about-us .use-mimicry-6jCPpS {
+.disclosures .use-mimicry-NCst4x {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -335,7 +361,7 @@
   width: min-content;
 }
 
-.about-us .use-mimicry-xGxHko {
+.disclosures .use-mimicry-k9QAni {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -347,7 +373,7 @@
   text-decoration: underline;
 }
 
-.about-us .understanding-persistence-xGxHko {
+.disclosures .understanding-persistence-k9QAni {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -358,7 +384,7 @@
   text-align: center;
 }
 
-.about-us .code-docs-xGxHko {
+.disclosures .code-docs-k9QAni {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -368,7 +394,7 @@
   text-align: center;
 }
 
-.about-us .best-practices-xGxHko {
+.disclosures .best-practices-k9QAni {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -378,7 +404,7 @@
   text-align: center;
 }
 
-.about-us .code-examples-xGxHko {
+.disclosures .code-examples-k9QAni {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -388,7 +414,7 @@
   text-align: center;
 }
 
-.about-us .general-b914uq {
+.disclosures .general-jisBU5 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -399,7 +425,7 @@
   width: min-content;
 }
 
-.about-us .general-t6RbFq {
+.disclosures .general-YTupFR {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -411,7 +437,7 @@
   text-decoration: underline;
 }
 
-.about-us .about-us-t6RbFq {
+.disclosures .about-us-YTupFR {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -422,7 +448,7 @@
   text-align: center;
 }
 
-.about-us .road-map-t6RbFq {
+.disclosures .road-map-YTupFR {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -433,7 +459,7 @@
   text-align: center;
 }
 
-.about-us .careers-t6RbFq {
+.disclosures .careers-YTupFR {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -444,7 +470,7 @@
   text-align: center;
 }
 
-.about-us .disclosures-t6RbFq {
+.disclosures .disclosures-YTupFR {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -455,110 +481,7 @@
   text-align: center;
 }
 
-.about-us .img_20220726_123006-1-MpTUx9 {
-  background-color: transparent;
-  height: 335px;
-  left: 1362px;
-  mix-blend-mode: screen;
-  position: absolute;
-  top: 434px;
-  width: 558px;
-}
-
-.about-us .group-11-MpTUx9 {
-  background-color: transparent;
-  height: 314px;
-  left: 310px;
-  position: absolute;
-  top: 769px;
-  width: 1305px;
-}
-
-.about-us .parad-is-a-strong-be-DnrOK4 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 58px;
-  width: 1301px;
-}
-
-.about-us .steven-parad-founder-DnrOK4 {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-jomolhari);
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 1px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.about-us .group-10-MpTUx9 {
-  background-color: transparent;
-  height: 506px;
-  left: 310px;
-  position: absolute;
-  top: 232px;
-  width: 1305px;
-}
-
-.about-us .the-idea-for-mimicry-x0xA4x {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 58px;
-  width: 1301px;
-}
-
-.about-us .mimicry-x0xA4x {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-jomolhari);
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 0px;
-  width: auto;
-}
-
-.about-us .about-us-MpTUx9 {
-  background-color: transparent;
-  height: auto;
-  left: 309px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 130px;
-  width: auto;
-}
-
-.about-us .header-MpTUx9 {
+.disclosures .header-q6xF1G {
   align-items: flex-start;
   background-color: var(--white);
   box-shadow: 4px 6px 4px #0000004c;
@@ -573,7 +496,7 @@
   width: 1920px;
 }
 
-.about-us .header-links-0txs13 {
+.disclosures .header-links-sJPA2B {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -583,7 +506,7 @@
   width: 785px;
 }
 
-.about-us .mimicry-LL2AvB {
+.disclosures .mimicry-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   height: 24px;
@@ -595,7 +518,7 @@
   width: 144px;
 }
 
-.about-us .infinite-animation-LL2AvB {
+.disclosures .infinite-animation-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -606,7 +529,7 @@
   text-align: center;
 }
 
-.about-us .nft-LL2AvB {
+.disclosures .nft-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -617,7 +540,7 @@
   text-align: center;
 }
 
-.about-us .featured-art-LL2AvB {
+.disclosures .featured-art-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -628,7 +551,7 @@
   text-align: center;
 }
 
-.about-us .blog-LL2AvB {
+.disclosures .blog-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -639,7 +562,7 @@
   text-align: center;
 }
 
-.about-us .wiki-LL2AvB {
+.disclosures .wiki-VlnOQo {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
@@ -650,7 +573,7 @@
   text-align: center;
 }
 
-.about-us .text-0txs13 {
+.disclosures .text-sJPA2B {
   background-color: transparent;
   flex: 1;
   height: 52px;
@@ -662,7 +585,7 @@
   text-align: center;
 }
 
-.about-us .draw_button-0txs13 {
+.disclosures .draw_button-sJPA2B {
   align-items: center;
   background-color: var(--moon-raker);
   box-shadow: 0px 4px 4px #00000040;
@@ -676,7 +599,7 @@
   width: 168px;
 }
 
-.about-us .draw-8JFtj5 {
+.disclosures .draw-V2Qia1 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -685,4 +608,14 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.disclosures .img_20220726_123006-1-q6xF1G {
+  background-color: transparent;
+  height: 334px;
+  left: 1269px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 668px;
+  width: 565px;
 }

@@ -50,7 +50,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 498px;
+  left: 518px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -100,21 +100,22 @@
   text-align: center;
 }
 
-.blog-2-understanding-ia .external-connections-B4dUHM {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .blog-2-understanding-ia .art-in-the-news-B4dUHM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-2-understanding-ia .blog-B4dUHM {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -304,12 +305,12 @@
   text-align: center;
 }
 
-.blog-2-understanding-ia .blog-oiGcSL {
+.blog-2-understanding-ia .disclosures-oiGcSL {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -463,24 +464,6 @@
   position: absolute;
   top: 0px;
   width: 54px;
-}
-
-.blog-2-understanding-ia .body-1Bo6o2 {
-  background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 360px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 308px;
-  width: 1200px;
 }
 
 .blog-2-understanding-ia .blog-photo-1Bo6o2 {
@@ -659,4 +642,173 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.blog-2-understanding-ia .body-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 300px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .infinite-animation-i-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 747px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .span0-IvTzO5 {
+}
+
+.blog-2-understanding-ia .span1-IvTzO5 {
+}
+
+.blog-2-understanding-ia .group-22-1Bo6o2 {
+  background-color: transparent;
+  height: 307px;
+  left: 360px;
+  position: absolute;
+  top: 906px;
+  width: 1204px;
+}
+
+.blog-2-understanding-ia .there-is-one-person-NhuLRd {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .protecting-the-artwork-NhuLRd {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 474px;
+}
+
+.blog-2-understanding-ia .technical-discussion-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1251px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .span0-H7d5ua {
+}
+
+.blog-2-understanding-ia .span1-H7d5ua {
+}
+
+.blog-2-understanding-ia .group-21-1Bo6o2 {
+  background-color: transparent;
+  height: 89px;
+  left: 360px;
+  position: absolute;
+  top: 1427px;
+  width: 1205px;
+}
+
+.blog-2-understanding-ia .when-you-view-a-jpeg-9w1fLc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .a-viewer-of-a-piece-9w1fLc {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .group-20-1Bo6o2 {
+  background-color: transparent;
+  height: 241px;
+  left: 360px;
+  position: absolute;
+  top: 1555px;
+  width: 1205px;
+}
+
+.blog-2-understanding-ia .while-an-owner-has-a-DWx3VC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .owners-of-a-piece-ha-DWx3VC {
+  background-color: transparent;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 1200px;
+}
+
+.blog-2-understanding-ia .so-we-acknowledge-th-1Bo6o2 {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1834px;
+  width: 1200px;
 }

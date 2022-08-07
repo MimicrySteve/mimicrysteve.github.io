@@ -200,7 +200,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 498px;
+  left: 518px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -250,21 +250,22 @@
   text-align: center;
 }
 
-.nft-art .external-connections-vWx6GI {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .nft-art .art-in-the-news-vWx6GI {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.nft-art .blog-vWx6GI {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -454,12 +455,12 @@
   text-align: center;
 }
 
-.nft-art .blog-MpL1Iu {
+.nft-art .disclosures-MpL1Iu {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -663,19 +664,6 @@
   position: absolute;
   text-align: center;
   top: 226px;
-  width: auto;
-}
-
-.nft-art .the-same-question-ge-dHoySO {
-  background-color: transparent;
-  height: auto;
-  left: 360px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 439px;
   width: auto;
 }
 

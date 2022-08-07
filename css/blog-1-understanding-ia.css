@@ -50,7 +50,7 @@
   gap: 106px;
   height: min-content;
   justify-content: center;
-  left: 497px;
+  left: 517px;
   position: relative;
   top: 10px;
   width: min-content;
@@ -100,21 +100,22 @@
   text-align: center;
 }
 
-.blog-1-understanding-ia .external-connections-LQmTb9 {
-  background-color: transparent;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  min-width: 155px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: center;
-}
-
 .blog-1-understanding-ia .art-in-the-news-LQmTb9 {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
   min-width: 115px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+}
+
+.blog-1-understanding-ia .blog-LQmTb9 {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-width: 35px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
@@ -304,12 +305,12 @@
   text-align: center;
 }
 
-.blog-1-understanding-ia .blog-Ma7EwB {
+.blog-1-understanding-ia .disclosures-Ma7EwB {
   background-color: transparent;
   cursor: pointer;
   letter-spacing: 0.00px;
   line-height: normal;
-  min-width: 35px;
+  min-width: 84px;
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
