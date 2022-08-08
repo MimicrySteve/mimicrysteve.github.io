@@ -53,16 +53,7 @@
   width: 1400px;
 }
 
-.current-portfolio .title-89br09 {
-  background-color: transparent;
-  height: 103px;
-  left: 285px;
-  position: absolute;
-  top: 104px;
-  width: 1402px;
-}
-
-.current-portfolio .featured-art-0pXTT7 {
+.current-portfolio .featured-art-89br09 {
   background-color: transparent;
   color: var(--masala);
   font-family: var(--font-family-jomolhari);
@@ -70,31 +61,31 @@
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 431px;
+  left: 716px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 103px;
   width: 551px;
 }
 
-.current-portfolio .line-1-0pXTT7 {
+.current-portfolio .line-1-89br09 {
   background-color: transparent;
   height: 11px;
-  left: -4px;
+  left: 281px;
   position: absolute;
-  top: 48px;
+  top: 152px;
   width: 383px;
 }
 
-.current-portfolio .line-2-0pXTT7 {
+.current-portfolio .line-2-89br09 {
   background-color: transparent;
   height: 11px;
-  left: 1021px;
+  left: 1306px;
   position: absolute;
-  top: 48px;
+  top: 152px;
   width: 383px;
 }
 
