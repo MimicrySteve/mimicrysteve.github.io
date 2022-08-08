@@ -467,15 +467,6 @@
   text-align: center;
 }
 
-.roadmap .line-8-HbRUhy {
-  background-color: transparent;
-  height: 810px;
-  left: 876px;
-  position: absolute;
-  top: 304px;
-  width: 13px;
-}
-
 .roadmap .frame-6-HbRUhy {
   align-items: flex-start;
   background-color: transparent;
@@ -691,15 +682,6 @@
   width: 153px;
 }
 
-.roadmap .line-17-HbRUhy {
-  background-color: transparent;
-  height: 92px;
-  left: 876px;
-  position: absolute;
-  top: 304px;
-  width: 13px;
-}
-
 .roadmap .header-HbRUhy {
   align-items: center;
   background-color: var(--black-haze);
@@ -826,4 +808,22 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: center;
+}
+
+.roadmap .new_black_vertical-HbRUhy {
+  background-color: transparent;
+  height: 808px;
+  left: 876px;
+  position: absolute;
+  top: 304px;
+  width: 13px;
+}
+
+.roadmap .line-17-HbRUhy {
+  background-color: transparent;
+  height: 92px;
+  left: 876px;
+  position: absolute;
+  top: 304px;
+  width: 13px;
 }
