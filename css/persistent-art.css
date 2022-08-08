@@ -36,6 +36,11 @@
 
 .persistent-art .infinite-animation-artwork-n9JY6v {
   background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jomolhari);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
   height: auto;
   left: 360px;
   letter-spacing: 0.00px;

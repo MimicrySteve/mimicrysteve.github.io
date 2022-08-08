@@ -31,6 +31,11 @@
 
 .pfpmadness-explainer .pfp-madness-d4xqlH {
   background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
   height: auto;
   left: 28px;
   letter-spacing: 0.00px;
