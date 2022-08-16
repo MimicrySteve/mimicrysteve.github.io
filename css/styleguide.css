@@ -10,15 +10,16 @@
   --masala: #3f3636;
   --moon-raker: #d6d1f3;
   --oriental-pink: #c69797;
+  --red: #e9000099;
   --white: #ffffff;
  
   --font-size-l: 16px;
   --font-size-m: 14px;
   --font-size-s: 12px;
   --font-size-xl: 18px;
+  --font-size-xs: 10px;
   --font-size-xxl: 20px;
-  --font-size-xxxl: 24px;
-  --font-size-xxxxl: 30px;
+  --font-size-xxxl: 30px;
  
   --font-family-inter: "Inter", Helvetica;
   --font-family-jomolhari: "Jomolhari", Helvetica;
@@ -139,7 +140,7 @@
 .jomolhari-normal-masala-30px {
   color: var(--masala);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -147,7 +148,7 @@
 .jomolhari-normal-white-30px {
   color: var(--white);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
 }
@@ -155,7 +156,7 @@
 .jomolhari-normal-masala-24px {
   color: var(--masala);
   font-family: var(--font-family-jomolhari);
-  font-size: var(--font-size-xxxl);
+  font-size: 24px;
   font-style: normal;
   font-weight: 400;
 }
@@ -196,6 +197,14 @@
   color: var(--white);
   font-family: var(--font-family-jomolhari);
   font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-red-28-7px {
+  color: var(--red);
+  font-family: var(--font-family-inter);
+  font-size: 28.7px;
   font-style: normal;
   font-weight: 400;
 }

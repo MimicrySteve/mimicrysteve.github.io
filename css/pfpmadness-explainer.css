@@ -20,12 +20,12 @@
 
 .pfpmadness-explainer .pfpmadness_explainer-sDo2xY {
   background-color: var(--white);
-  height: 799px;
+  height: 955px;
   left: calc(50vw - 478.5px);
   mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
-  top: calc(50vh - 399.5px);
+  top: calc(50vh - 477.5px);
   width: 957px;
 }
 
@@ -135,4 +135,67 @@
   position: absolute;
   top: 310px;
   width: 234px;
+}
+
+.pfpmadness-explainer .demo-only-d4xqlH {
+  background-color: transparent;
+  height: auto;
+  left: 678px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 1.436629056930542px 1.436629056930542px #00000040;
+  top: 388px;
+  transform: rotate(13.95deg);
+  width: 179px;
+}
+
+.pfpmadness-explainer .demo-only-uDbrSM {
+  background-color: transparent;
+  height: auto;
+  left: 678px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 1.436629056930542px 1.436629056930542px #00000040;
+  top: 588px;
+  transform: rotate(13.95deg);
+  width: 179px;
+}
+
+.pfpmadness-explainer .demo-only-9ay7wF {
+  background-color: transparent;
+  height: auto;
+  left: 678px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 1.436629056930542px 1.436629056930542px #00000040;
+  top: 198px;
+  transform: rotate(13.95deg);
+  width: 179px;
+}
+
+.pfpmadness-explainer .note-mimicry-does-no-d4xqlH {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jomolhari);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 823px;
+  width: 612px;
 }
