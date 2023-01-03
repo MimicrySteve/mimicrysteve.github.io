@@ -594,14 +594,10 @@
   width: 524px;
 }
 
-.index .group-14-IO3Fu5 {
-  background-color: transparent;
-  height: 223px;
-  left: 360px;
-  position: absolute;
-  top: 645px;
-  width: 1204px;
-}
+
+
+
+
 
 .index .envisioning-real-time-data-l6pkTk {
   background-color: transparent;
@@ -650,12 +646,29 @@
   width: 1200px;
 }
 
-.index .group-18-IO3Fu5 {
+.index .group-alpha {
+	background-color: white;
+	top: 350px;
+	left: 360px;
+	width: 1204px;
+	position: absolute;
+}
+
+.index .group-paragraph1 {
   background-color: transparent;
   height: 200px;
   left: 360px;
   position: absolute;
-  top: 360px;
+  top: 450px;
+  width: 1204px;
+}
+
+.index .group-description2 {
+  background-color: transparent;
+  height: 223px;
+  left: 360px;
+  position: absolute;
+  top: 680px;
   width: 1204px;
 }
 
